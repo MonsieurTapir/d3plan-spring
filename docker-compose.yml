@@ -1,0 +1,22 @@
+version: '3'
+services:
+  web:
+    image: diabloplan
+    ports:
+      - "5000:5000"
+    environment:
+      - SPRING_DATASOURCE_URL
+      - PORT=5000
+    depends_on:
+      - db
+  db:
+    image: postgres:latest
+    env_file:
+      - database.env # configure postgres
+    ports:
+      - "5432:5432"
+    volumes:
+      - DiabloData:/var/lib/postgresql
+volumes:
+  DiabloData:
+  

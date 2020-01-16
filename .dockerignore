@@ -1,0 +1,21 @@
+HELP.md
+myenv.env
+myenvtest.env
+
+.gradle
+!gradle/wrapper/gradle-wrapper.jar
+!**/src/main/**
+!**/src/test/**
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+
+### VS Code ###
+.vscode/
