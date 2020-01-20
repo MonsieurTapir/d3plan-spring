@@ -1,0 +1,6039 @@
+[
+  {
+    "name": "Bash",
+    "blizzID": "bash",
+    "url":"https://eu.diablo3.com/en/class/barbarian/active/bash",
+    "runes": [
+      {
+        "name": "Frostbite",
+        "url":"/rune/barbarian/bash/c"
+      },
+      {
+        "name": "Onslaught",
+        "url":"/rune/barbarian/bash/a"
+      },
+      {
+        "name": "Punish",
+        "url":"/rune/barbarian/bash/b"
+      },
+      {
+        "name": "Instigation",
+        "url":"/rune/barbarian/bash/d"
+      },
+      {
+        "name": "Pulverize",
+        "url":"/rune/barbarian/bash/e"
+      }
+    ],
+    "className": "barbarian",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Hammer of the Ancients",
+    "blizzID": "hammer-of-the-ancients",
+    "url":"https://eu.diablo3.com/en/class/barbarian/active/hammer-of-the-ancients",
+    "runes": [
+      {
+        "name": "Rolling Thunder",
+        "url":"/rune/barbarian/hammer-of-the-ancients/b"
+      },
+      {
+        "name": "Smash",
+        "url":"/rune/barbarian/hammer-of-the-ancients/a"
+      },
+      {
+        "name": "The Devil's Anvil",
+        "url":"/rune/barbarian/hammer-of-the-ancients/c"
+      },
+      {
+        "name": "Thunderstrike",
+        "url":"/rune/barbarian/hammer-of-the-ancients/e"
+      },
+      {
+        "name": "Birthright",
+        "url":"/rune/barbarian/hammer-of-the-ancients/d"
+      }
+    ],
+    "className": "barbarian",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Cleave",
+    "blizzID": "cleave",
+    "url":"https://eu.diablo3.com/en/class/barbarian/active/cleave",
+    "runes": [
+      {
+        "name": "Rupture",
+        "url":"/rune/barbarian/cleave/e"
+      },
+      {
+        "name": "Reaping Swing",
+        "url":"/rune/barbarian/cleave/d"
+      },
+      {
+        "name": "Scattering Blast",
+        "url":"/rune/barbarian/cleave/c"
+      },
+      {
+        "name": "Broad Sweep",
+        "url":"/rune/barbarian/cleave/a"
+      },
+      {
+        "name": "Gathering Storm",
+        "url":"/rune/barbarian/cleave/b"
+      }
+    ],
+    "className": "barbarian",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Ground Stomp",
+    "blizzID": "ground-stomp",
+    "url":"https://eu.diablo3.com/en/class/barbarian/active/ground-stomp",
+    "runes": [
+      {
+        "name": "Deafening Crash",
+        "url":"/rune/barbarian/ground-stomp/e"
+      },
+      {
+        "name": "Wrenching Smash",
+        "url":"/rune/barbarian/ground-stomp/b"
+      },
+      {
+        "name": "Trembling Stomp",
+        "url":"/rune/barbarian/ground-stomp/a"
+      },
+      {
+        "name": "Foot of the Mountain",
+        "url":"/rune/barbarian/ground-stomp/d"
+      },
+      {
+        "name": "Jarring Slam",
+        "url":"/rune/barbarian/ground-stomp/c"
+      }
+    ],
+    "className": "barbarian",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Rend",
+    "blizzID": "rend",
+    "url":"https://eu.diablo3.com/en/class/barbarian/active/rend",
+    "runes": [
+      {
+        "name": "Ravage",
+        "url":"/rune/barbarian/rend/b"
+      },
+      {
+        "name": "Blood Lust",
+        "url":"/rune/barbarian/rend/d"
+      },
+      {
+        "name": "Lacerate",
+        "url":"/rune/barbarian/rend/a"
+      },
+      {
+        "name": "Mutilate",
+        "url":"/rune/barbarian/rend/c"
+      },
+      {
+        "name": "Bloodbath",
+        "url":"/rune/barbarian/rend/e"
+      }
+    ],
+    "className": "barbarian",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Leap",
+    "blizzID": "leap",
+    "url":"https://eu.diablo3.com/en/class/barbarian/active/leap",
+    "runes": [
+      {
+        "name": "Iron Impact",
+        "url":"/rune/barbarian/leap/d"
+      },
+      {
+        "name": "Launch",
+        "url":"/rune/barbarian/leap/c"
+      },
+      {
+        "name": "Toppling Impact",
+        "url":"/rune/barbarian/leap/b"
+      },
+      {
+        "name": "Call of Arreat",
+        "url":"/rune/barbarian/leap/a"
+      },
+      {
+        "name": "Death from Above",
+        "url":"/rune/barbarian/leap/e"
+      }
+    ],
+    "className": "barbarian",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Overpower",
+    "blizzID": "overpower",
+    "url":"https://eu.diablo3.com/en/class/barbarian/active/overpower",
+    "runes": [
+      {
+        "name": "Storm of Steel",
+        "url":"/rune/barbarian/overpower/b"
+      },
+      {
+        "name": "Killing Spree",
+        "url":"/rune/barbarian/overpower/a"
+      },
+      {
+        "name": "Crushing Advance",
+        "url":"/rune/barbarian/overpower/e"
+      },
+      {
+        "name": "Momentum",
+        "url":"/rune/barbarian/overpower/d"
+      },
+      {
+        "name": "Revel",
+        "url":"/rune/barbarian/overpower/c"
+      }
+    ],
+    "className": "barbarian",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Frenzy",
+    "blizzID": "frenzy",
+    "url":"https://eu.diablo3.com/en/class/barbarian/active/frenzy",
+    "runes": [
+      {
+        "name": "Sidearm",
+        "url":"/rune/barbarian/frenzy/b"
+      },
+      {
+        "name": "Berserk",
+        "url":"/rune/barbarian/frenzy/e"
+      },
+      {
+        "name": "Vanguard",
+        "url":"/rune/barbarian/frenzy/c"
+      },
+      {
+        "name": "Smite",
+        "url":"/rune/barbarian/frenzy/d"
+      },
+      {
+        "name": "Maniac",
+        "url":"/rune/barbarian/frenzy/a"
+      }
+    ],
+    "className": "barbarian",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Seismic Slam",
+    "blizzID": "seismic-slam",
+    "url":"https://eu.diablo3.com/en/class/barbarian/active/seismic-slam",
+    "runes": [
+      {
+        "name": "Stagger",
+        "url":"/rune/barbarian/seismic-slam/c"
+      },
+      {
+        "name": "Shattered Ground",
+        "url":"/rune/barbarian/seismic-slam/a"
+      },
+      {
+        "name": "Rumble",
+        "url":"/rune/barbarian/seismic-slam/b"
+      },
+      {
+        "name": "Strength from Earth",
+        "url":"/rune/barbarian/seismic-slam/d"
+      },
+      {
+        "name": "Permafrost",
+        "url":"/rune/barbarian/seismic-slam/e"
+      }
+    ],
+    "className": "barbarian",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Revenge",
+    "blizzID": "revenge",
+    "url":"https://eu.diablo3.com/en/class/barbarian/active/revenge",
+    "runes": [
+      {
+        "name": "Blood Law",
+        "url":"/rune/barbarian/revenge/d"
+      },
+      {
+        "name": "Best Served Cold",
+        "url":"/rune/barbarian/revenge/e"
+      },
+      {
+        "name": "Retribution",
+        "url":"/rune/barbarian/revenge/a"
+      },
+      {
+        "name": "Grudge",
+        "url":"/rune/barbarian/revenge/c"
+      },
+      {
+        "name": "Provocation",
+        "url":"/rune/barbarian/revenge/b"
+      }
+    ],
+    "className": "barbarian",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Threatening Shout",
+    "blizzID": "threatening-shout",
+    "url":"https://eu.diablo3.com/en/class/barbarian/active/threatening-shout",
+    "runes": [
+      {
+        "name": "Intimidate",
+        "url":"/rune/barbarian/threatening-shout/b"
+      },
+      {
+        "name": "Falter",
+        "url":"/rune/barbarian/threatening-shout/d"
+      },
+      {
+        "name": "Grim Harvest",
+        "url":"/rune/barbarian/threatening-shout/c"
+      },
+      {
+        "name": "Demoralize",
+        "url":"/rune/barbarian/threatening-shout/a"
+      },
+      {
+        "name": "Terrify",
+        "url":"/rune/barbarian/threatening-shout/e"
+      }
+    ],
+    "className": "barbarian",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Sprint",
+    "blizzID": "sprint",
+    "url":"https://eu.diablo3.com/en/class/barbarian/active/sprint",
+    "runes": [
+      {
+        "name": "Rush",
+        "url":"/rune/barbarian/sprint/b"
+      },
+      {
+        "name": "Run Like the Wind",
+        "url":"/rune/barbarian/sprint/c"
+      },
+      {
+        "name": "Marathon",
+        "url":"/rune/barbarian/sprint/a"
+      },
+      {
+        "name": "Gangway",
+        "url":"/rune/barbarian/sprint/e"
+      },
+      {
+        "name": "Forced March",
+        "url":"/rune/barbarian/sprint/d"
+      }
+    ],
+    "className": "barbarian",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Weapon Throw",
+    "blizzID": "weapon-throw",
+    "url":"https://eu.diablo3.com/en/class/barbarian/active/weapon-throw",
+    "runes": [
+      {
+        "name": "Mighty Throw",
+        "url":"/rune/barbarian/weapon-throw/a"
+      },
+      {
+        "name": "Ricochet",
+        "url":"/rune/barbarian/weapon-throw/b"
+      },
+      {
+        "name": "Throwing Hammer",
+        "url":"/rune/barbarian/weapon-throw/c"
+      },
+      {
+        "name": "Stupefy",
+        "url":"/rune/barbarian/weapon-throw/e"
+      },
+      {
+        "name": "Balanced Weapon",
+        "url":"/rune/barbarian/weapon-throw/d"
+      }
+    ],
+    "className": "barbarian",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Earthquake",
+    "blizzID": "earthquake",
+    "url":"https://eu.diablo3.com/en/class/barbarian/active/earthquake",
+    "runes": [
+      {
+        "name": "Giant's Stride",
+        "url":"/rune/barbarian/earthquake/b"
+      },
+      {
+        "name": "Chilling Earth",
+        "url":"/rune/barbarian/earthquake/c"
+      },
+      {
+        "name": "The Mountain's Call",
+        "url":"/rune/barbarian/earthquake/d"
+      },
+      {
+        "name": "Molten Fury",
+        "url":"/rune/barbarian/earthquake/a"
+      },
+      {
+        "name": "Cave-In",
+        "url":"/rune/barbarian/earthquake/e"
+      }
+    ],
+    "className": "barbarian",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Whirlwind",
+    "blizzID": "whirlwind",
+    "url":"https://eu.diablo3.com/en/class/barbarian/active/whirlwind",
+    "runes": [
+      {
+        "name": "Dust Devils",
+        "url":"/rune/barbarian/whirlwind/b"
+      },
+      {
+        "name": "Hurricane",
+        "url":"/rune/barbarian/whirlwind/c"
+      },
+      {
+        "name": "Blood Funnel",
+        "url":"/rune/barbarian/whirlwind/e"
+      },
+      {
+        "name": "Wind Shear",
+        "url":"/rune/barbarian/whirlwind/d"
+      },
+      {
+        "name": "Volcanic Eruption",
+        "url":"/rune/barbarian/whirlwind/a"
+      }
+    ],
+    "className": "barbarian",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Furious Charge",
+    "blizzID": "furious-charge",
+    "url":"https://eu.diablo3.com/en/class/barbarian/active/furious-charge",
+    "runes": [
+      {
+        "name": "Battering Ram",
+        "url":"/rune/barbarian/furious-charge/a"
+      },
+      {
+        "name": "Merciless Assault",
+        "url":"/rune/barbarian/furious-charge/e"
+      },
+      {
+        "name": "Stamina",
+        "url":"/rune/barbarian/furious-charge/d"
+      },
+      {
+        "name": "Cold Rush",
+        "url":"/rune/barbarian/furious-charge/c"
+      },
+      {
+        "name": "Dreadnought",
+        "url":"/rune/barbarian/furious-charge/b"
+      }
+    ],
+    "className": "barbarian",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Ignore Pain",
+    "blizzID": "ignore-pain",
+    "url":"https://eu.diablo3.com/en/class/barbarian/active/ignore-pain",
+    "runes": [
+      {
+        "name": "Bravado",
+        "url":"/rune/barbarian/ignore-pain/d"
+      },
+      {
+        "name": "Iron Hide",
+        "url":"/rune/barbarian/ignore-pain/b"
+      },
+      {
+        "name": "Ignorance is Bliss",
+        "url":"/rune/barbarian/ignore-pain/e"
+      },
+      {
+        "name": "Mob Rule",
+        "url":"/rune/barbarian/ignore-pain/c"
+      },
+      {
+        "name": "Contempt for Weakness",
+        "url":"/rune/barbarian/ignore-pain/a"
+      }
+    ],
+    "className": "barbarian",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Battle Rage",
+    "blizzID": "battle-rage",
+    "url":"https://eu.diablo3.com/en/class/barbarian/active/battle-rage",
+    "runes": [
+      {
+        "name": "Marauder's Rage",
+        "url":"/rune/barbarian/battle-rage/a"
+      },
+      {
+        "name": "Ferocity",
+        "url":"/rune/barbarian/battle-rage/b"
+      },
+      {
+        "name": "Swords to Ploughshares",
+        "url":"/rune/barbarian/battle-rage/c"
+      },
+      {
+        "name": "Into the Fray",
+        "url":"/rune/barbarian/battle-rage/d"
+      },
+      {
+        "name": "Bloodshed",
+        "url":"/rune/barbarian/battle-rage/e"
+      }
+    ],
+    "className": "barbarian",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Call of the Ancients",
+    "blizzID": "call-of-the-ancients",
+    "url":"https://eu.diablo3.com/en/class/barbarian/active/call-of-the-ancients",
+    "runes": [
+      {
+        "name": "The Council Rises",
+        "url":"/rune/barbarian/call-of-the-ancients/b"
+      },
+      {
+        "name": "Duty to the Clan",
+        "url":"/rune/barbarian/call-of-the-ancients/d"
+      },
+      {
+        "name": "Ancients' Blessing",
+        "url":"/rune/barbarian/call-of-the-ancients/a"
+      },
+      {
+        "name": "Ancients' Fury",
+        "url":"/rune/barbarian/call-of-the-ancients/c"
+      },
+      {
+        "name": "Together as One",
+        "url":"/rune/barbarian/call-of-the-ancients/e"
+      }
+    ],
+    "className": "barbarian",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Ancient Spear",
+    "blizzID": "ancient-spear",
+    "url":"https://eu.diablo3.com/en/class/barbarian/active/ancient-spear",
+    "runes": [
+      {
+        "name": "Ranseur",
+        "url":"/rune/barbarian/ancient-spear/d"
+      },
+      {
+        "name": "Harpoon",
+        "url":"/rune/barbarian/ancient-spear/a"
+      },
+      {
+        "name": "Jagged Edge",
+        "url":"/rune/barbarian/ancient-spear/c"
+      },
+      {
+        "name": "Boulder Toss",
+        "url":"/rune/barbarian/ancient-spear/b"
+      },
+      {
+        "name": "Rage Flip",
+        "url":"/rune/barbarian/ancient-spear/e"
+      }
+    ],
+    "className": "barbarian",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "War Cry",
+    "blizzID": "war-cry",
+    "url":"https://eu.diablo3.com/en/class/barbarian/active/war-cry",
+    "runes": [
+      {
+        "name": "Hardened Wrath",
+        "url":"/rune/barbarian/war-cry/a"
+      },
+      {
+        "name": "Charge!",
+        "url":"/rune/barbarian/war-cry/d"
+      },
+      {
+        "name": "Invigorate",
+        "url":"/rune/barbarian/war-cry/e"
+      },
+      {
+        "name": "Veteran's Warning",
+        "url":"/rune/barbarian/war-cry/b"
+      },
+      {
+        "name": "Impunity",
+        "url":"/rune/barbarian/war-cry/c"
+      }
+    ],
+    "className": "barbarian",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Wrath of the Berserker",
+    "blizzID": "wrath-of-the-berserker",
+    "url":"https://eu.diablo3.com/en/class/barbarian/active/wrath-of-the-berserker",
+    "runes": [
+      {
+        "name": "Arreat's Wail",
+        "url":"/rune/barbarian/wrath-of-the-berserker/b"
+      },
+      {
+        "name": "Insanity",
+        "url":"/rune/barbarian/wrath-of-the-berserker/a"
+      },
+      {
+        "name": "Slaughter",
+        "url":"/rune/barbarian/wrath-of-the-berserker/e"
+      },
+      {
+        "name": "Striding Giant",
+        "url":"/rune/barbarian/wrath-of-the-berserker/c"
+      },
+      {
+        "name": "Thrive on Chaos",
+        "url":"/rune/barbarian/wrath-of-the-berserker/d"
+      }
+    ],
+    "className": "barbarian",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Avalanche",
+    "blizzID": "avalanche",
+    "url":"https://eu.diablo3.com/en/class/barbarian/active/avalanche",
+    "runes": [
+      {
+        "name": "Volcano",
+        "url":"/rune/barbarian/avalanche/c"
+      },
+      {
+        "name": "Lahar",
+        "url":"/rune/barbarian/avalanche/d"
+      },
+      {
+        "name": "Snow-Capped Mountain",
+        "url":"/rune/barbarian/avalanche/b"
+      },
+      {
+        "name": "Tectonic Rift",
+        "url":"/rune/barbarian/avalanche/e"
+      },
+      {
+        "name": "Glacier",
+        "url":"/rune/barbarian/avalanche/a"
+      }
+    ],
+    "className": "barbarian",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Pound of Flesh",
+    "blizzID": "pound-of-flesh",
+    "url":"https://eu.diablo3.com/en/class/barbarian/passive/pound-of-flesh",
+    "runes": [
+
+    ],
+    "className": "barbarian",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Ruthless",
+    "blizzID": "ruthless",
+    "url":"https://eu.diablo3.com/en/class/barbarian/passive/ruthless",
+    "runes": [
+
+    ],
+    "className": "barbarian",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Nerves of Steel",
+    "blizzID": "nerves-of-steel",
+    "url":"https://eu.diablo3.com/en/class/barbarian/passive/nerves-of-steel",
+    "runes": [
+
+    ],
+    "className": "barbarian",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Weapons Master",
+    "blizzID": "weapons-master",
+    "url":"https://eu.diablo3.com/en/class/barbarian/passive/weapons-master",
+    "runes": [
+
+    ],
+    "className": "barbarian",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Inspiring Presence",
+    "blizzID": "inspiring-presence",
+    "url":"https://eu.diablo3.com/en/class/barbarian/passive/inspiring-presence",
+    "runes": [
+
+    ],
+    "className": "barbarian",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Berserker Rage",
+    "blizzID": "berserker-rage",
+    "url":"https://eu.diablo3.com/en/class/barbarian/passive/berserker-rage",
+    "runes": [
+
+    ],
+    "className": "barbarian",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Bloodthirst",
+    "blizzID": "bloodthirst",
+    "url":"https://eu.diablo3.com/en/class/barbarian/passive/bloodthirst",
+    "runes": [
+
+    ],
+    "className": "barbarian",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Animosity",
+    "blizzID": "animosity",
+    "url":"https://eu.diablo3.com/en/class/barbarian/passive/animosity",
+    "runes": [
+
+    ],
+    "className": "barbarian",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Superstition",
+    "blizzID": "superstition",
+    "url":"https://eu.diablo3.com/en/class/barbarian/passive/superstition",
+    "runes": [
+
+    ],
+    "className": "barbarian",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Tough as Nails",
+    "blizzID": "tough-as-nails",
+    "url":"https://eu.diablo3.com/en/class/barbarian/passive/tough-as-nails",
+    "runes": [
+
+    ],
+    "className": "barbarian",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "No Escape",
+    "blizzID": "no-escape",
+    "url":"https://eu.diablo3.com/en/class/barbarian/passive/no-escape",
+    "runes": [
+
+    ],
+    "className": "barbarian",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Relentless",
+    "blizzID": "relentless",
+    "url":"https://eu.diablo3.com/en/class/barbarian/passive/relentless",
+    "runes": [
+
+    ],
+    "className": "barbarian",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Brawler",
+    "blizzID": "brawler",
+    "url":"https://eu.diablo3.com/en/class/barbarian/passive/brawler",
+    "runes": [
+
+    ],
+    "className": "barbarian",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Juggernaut",
+    "blizzID": "juggernaut",
+    "url":"https://eu.diablo3.com/en/class/barbarian/passive/juggernaut",
+    "runes": [
+
+    ],
+    "className": "barbarian",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Unforgiving",
+    "blizzID": "unforgiving",
+    "url":"https://eu.diablo3.com/en/class/barbarian/passive/unforgiving",
+    "runes": [
+
+    ],
+    "className": "barbarian",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Boon of Bul-Kathos",
+    "blizzID": "boon-of-bulkathos",
+    "url":"https://eu.diablo3.com/en/class/barbarian/passive/boon-of-bulkathos",
+    "runes": [
+
+    ],
+    "className": "barbarian",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Earthen Might",
+    "blizzID": "earthen-might",
+    "url":"https://eu.diablo3.com/en/class/barbarian/passive/earthen-might",
+    "runes": [
+
+    ],
+    "className": "barbarian",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Sword and Board",
+    "blizzID": "sword-and-board",
+    "url":"https://eu.diablo3.com/en/class/barbarian/passive/sword-and-board",
+    "runes": [
+
+    ],
+    "className": "barbarian",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Rampage",
+    "blizzID": "rampage",
+    "url":"https://eu.diablo3.com/en/class/barbarian/passive/rampage",
+    "runes": [
+
+    ],
+    "className": "barbarian",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Punish",
+    "blizzID": "punish",
+    "url":"https://eu.diablo3.com/en/class/crusader/active/punish",
+    "runes": [
+      {
+        "name": "Roar",
+        "url":"/rune/crusader/punish/d"
+      },
+      {
+        "name": "Celerity",
+        "url":"/rune/crusader/punish/b"
+      },
+      {
+        "name": "Rebirth",
+        "url":"/rune/crusader/punish/c"
+      },
+      {
+        "name": "Retaliate",
+        "url":"/rune/crusader/punish/a"
+      },
+      {
+        "name": "Fury",
+        "url":"/rune/crusader/punish/e"
+      }
+    ],
+    "className": "crusader",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Shield Bash",
+    "blizzID": "shield-bash",
+    "url":"https://eu.diablo3.com/en/class/crusader/active/shield-bash",
+    "runes": [
+      {
+        "name": "Shattered Shield",
+        "url":"/rune/crusader/shield-bash/b"
+      },
+      {
+        "name": "One on One",
+        "url":"/rune/crusader/shield-bash/e"
+      },
+      {
+        "name": "Shield Cross",
+        "url":"/rune/crusader/shield-bash/c"
+      },
+      {
+        "name": "Crumble",
+        "url":"/rune/crusader/shield-bash/a"
+      },
+      {
+        "name": "Pound",
+        "url":"/rune/crusader/shield-bash/d"
+      }
+    ],
+    "className": "crusader",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Slash",
+    "blizzID": "slash",
+    "url":"https://eu.diablo3.com/en/class/crusader/active/slash",
+    "runes": [
+      {
+        "name": "Electrify",
+        "url":"/rune/crusader/slash/b"
+      },
+      {
+        "name": "Carve",
+        "url":"/rune/crusader/slash/d"
+      },
+      {
+        "name": "Crush",
+        "url":"/rune/crusader/slash/c"
+      },
+      {
+        "name": "Zeal",
+        "url":"/rune/crusader/slash/a"
+      },
+      {
+        "name": "Guard",
+        "url":"/rune/crusader/slash/e"
+      }
+    ],
+    "className": "crusader",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Shield Glare",
+    "blizzID": "shield-glare",
+    "url":"https://eu.diablo3.com/en/class/crusader/active/shield-glare",
+    "runes": [
+      {
+        "name": "Divine Verdict",
+        "url":"/rune/crusader/shield-glare/a"
+      },
+      {
+        "name": "Uncertainty",
+        "url":"/rune/crusader/shield-glare/b"
+      },
+      {
+        "name": "Zealous Glare",
+        "url":"/rune/crusader/shield-glare/d"
+      },
+      {
+        "name": "Emblazoned Shield",
+        "url":"/rune/crusader/shield-glare/c"
+      },
+      {
+        "name": "Subdue",
+        "url":"/rune/crusader/shield-glare/e"
+      }
+    ],
+    "className": "crusader",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Sweep Attack",
+    "blizzID": "sweep-attack",
+    "url":"https://eu.diablo3.com/en/class/crusader/active/sweep-attack",
+    "runes": [
+      {
+        "name": "Blazing Sweep",
+        "url":"/rune/crusader/sweep-attack/b"
+      },
+      {
+        "name": "Trip Attack",
+        "url":"/rune/crusader/sweep-attack/d"
+      },
+      {
+        "name": "Holy Shock",
+        "url":"/rune/crusader/sweep-attack/c"
+      },
+      {
+        "name": "Gathering Sweep",
+        "url":"/rune/crusader/sweep-attack/a"
+      },
+      {
+        "name": "Inspiring Sweep",
+        "url":"/rune/crusader/sweep-attack/e"
+      }
+    ],
+    "className": "crusader",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Iron Skin",
+    "blizzID": "iron-skin",
+    "url":"https://eu.diablo3.com/en/class/crusader/active/iron-skin",
+    "runes": [
+      {
+        "name": "Reflective Skin",
+        "url":"/rune/crusader/iron-skin/d"
+      },
+      {
+        "name": "Steel Skin",
+        "url":"/rune/crusader/iron-skin/b"
+      },
+      {
+        "name": "Explosive Skin",
+        "url":"/rune/crusader/iron-skin/c"
+      },
+      {
+        "name": "Charged Up",
+        "url":"/rune/crusader/iron-skin/a"
+      },
+      {
+        "name": "Flash",
+        "url":"/rune/crusader/iron-skin/e"
+      }
+    ],
+    "className": "crusader",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Provoke",
+    "blizzID": "provoke",
+    "url":"https://eu.diablo3.com/en/class/crusader/active/provoke",
+    "runes": [
+      {
+        "name": "Cleanse",
+        "url":"/rune/crusader/provoke/a"
+      },
+      {
+        "name": "Flee Fool",
+        "url":"/rune/crusader/provoke/b"
+      },
+      {
+        "name": "Too Scared to Run",
+        "url":"/rune/crusader/provoke/c"
+      },
+      {
+        "name": "Charged Up",
+        "url":"/rune/crusader/provoke/d"
+      },
+      {
+        "name": "Hit Me",
+        "url":"/rune/crusader/provoke/e"
+      }
+    ],
+    "className": "crusader",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Smite",
+    "blizzID": "smite",
+    "url":"https://eu.diablo3.com/en/class/crusader/active/smite",
+    "runes": [
+      {
+        "name": "Shatter",
+        "url":"/rune/crusader/smite/c"
+      },
+      {
+        "name": "Shackle",
+        "url":"/rune/crusader/smite/b"
+      },
+      {
+        "name": "Surge",
+        "url":"/rune/crusader/smite/e"
+      },
+      {
+        "name": "Reaping",
+        "url":"/rune/crusader/smite/d"
+      },
+      {
+        "name": "Shared Fate",
+        "url":"/rune/crusader/smite/a"
+      }
+    ],
+    "className": "crusader",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Blessed Hammer",
+    "blizzID": "blessed-hammer",
+    "url":"https://eu.diablo3.com/en/class/crusader/active/blessed-hammer",
+    "runes": [
+      {
+        "name": "Burning Wrath",
+        "url":"/rune/crusader/blessed-hammer/a"
+      },
+      {
+        "name": "Thunderstruck",
+        "url":"/rune/crusader/blessed-hammer/b"
+      },
+      {
+        "name": "Limitless",
+        "url":"/rune/crusader/blessed-hammer/c"
+      },
+      {
+        "name": "Brute Force",
+        "url":"/rune/crusader/blessed-hammer/d"
+      },
+      {
+        "name": "Dominion",
+        "url":"/rune/crusader/blessed-hammer/e"
+      }
+    ],
+    "className": "crusader",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Steed Charge",
+    "blizzID": "steed-charge",
+    "url":"https://eu.diablo3.com/en/class/crusader/active/steed-charge",
+    "runes": [
+      {
+        "name": "Spiked Barding",
+        "url":"/rune/crusader/steed-charge/a"
+      },
+      {
+        "name": "Nightmare",
+        "url":"/rune/crusader/steed-charge/d"
+      },
+      {
+        "name": "Rejuvenation",
+        "url":"/rune/crusader/steed-charge/c"
+      },
+      {
+        "name": "Endurance",
+        "url":"/rune/crusader/steed-charge/b"
+      },
+      {
+        "name": "Draw and Quarter",
+        "url":"/rune/crusader/steed-charge/e"
+      }
+    ],
+    "className": "crusader",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Laws of Valor",
+    "blizzID": "laws-of-valor",
+    "url":"https://eu.diablo3.com/en/class/crusader/active/laws-of-valor",
+    "runes": [
+      {
+        "name": "Invincible",
+        "url":"/rune/crusader/laws-of-valor/a"
+      },
+      {
+        "name": "Frozen in Terror",
+        "url":"/rune/crusader/laws-of-valor/b"
+      },
+      {
+        "name": "Critical",
+        "url":"/rune/crusader/laws-of-valor/c"
+      },
+      {
+        "name": "Unstoppable Force",
+        "url":"/rune/crusader/laws-of-valor/d"
+      },
+      {
+        "name": "Answered Prayer",
+        "url":"/rune/crusader/laws-of-valor/e"
+      }
+    ],
+    "className": "crusader",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Justice",
+    "blizzID": "justice",
+    "url":"https://eu.diablo3.com/en/class/crusader/active/justice",
+    "runes": [
+      {
+        "name": "Burst",
+        "url":"/rune/crusader/justice/d"
+      },
+      {
+        "name": "Crack",
+        "url":"/rune/crusader/justice/b"
+      },
+      {
+        "name": "Hammer of Pursuit",
+        "url":"/rune/crusader/justice/c"
+      },
+      {
+        "name": "Sword of Justice",
+        "url":"/rune/crusader/justice/a"
+      },
+      {
+        "name": "Holy Bolt",
+        "url":"/rune/crusader/justice/e"
+      }
+    ],
+    "className": "crusader",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Consecration",
+    "blizzID": "consecration",
+    "url":"https://eu.diablo3.com/en/class/crusader/active/consecration",
+    "runes": [
+      {
+        "name": "Bathed in Light",
+        "url":"/rune/crusader/consecration/c"
+      },
+      {
+        "name": "Bed of Nails",
+        "url":"/rune/crusader/consecration/b"
+      },
+      {
+        "name": "Aegis Purgatory",
+        "url":"/rune/crusader/consecration/a"
+      },
+      {
+        "name": "Shattered Ground",
+        "url":"/rune/crusader/consecration/d"
+      },
+      {
+        "name": "Fearful",
+        "url":"/rune/crusader/consecration/e"
+      }
+    ],
+    "className": "crusader",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Laws of Justice",
+    "blizzID": "laws-of-justice",
+    "url":"https://eu.diablo3.com/en/class/crusader/active/laws-of-justice",
+    "runes": [
+      {
+        "name": "Protect the Innocent",
+        "url":"/rune/crusader/laws-of-justice/a"
+      },
+      {
+        "name": "Immovable Object",
+        "url":"/rune/crusader/laws-of-justice/b"
+      },
+      {
+        "name": "Faith's Armor",
+        "url":"/rune/crusader/laws-of-justice/c"
+      },
+      {
+        "name": "Decaying Strength",
+        "url":"/rune/crusader/laws-of-justice/d"
+      },
+      {
+        "name": "Bravery",
+        "url":"/rune/crusader/laws-of-justice/e"
+      }
+    ],
+    "className": "crusader",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Falling Sword",
+    "blizzID": "falling-sword",
+    "url":"https://eu.diablo3.com/en/class/crusader/active/falling-sword",
+    "runes": [
+      {
+        "name": "Superheated",
+        "url":"/rune/crusader/falling-sword/a"
+      },
+      {
+        "name": "Part the Clouds",
+        "url":"/rune/crusader/falling-sword/b"
+      },
+      {
+        "name": "Rise Brothers",
+        "url":"/rune/crusader/falling-sword/c"
+      },
+      {
+        "name": "Rapid Descent",
+        "url":"/rune/crusader/falling-sword/d"
+      },
+      {
+        "name": "Flurry",
+        "url":"/rune/crusader/falling-sword/e"
+      }
+    ],
+    "className": "crusader",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Blessed Shield",
+    "blizzID": "blessed-shield",
+    "url":"https://eu.diablo3.com/en/class/crusader/active/blessed-shield",
+    "runes": [
+      {
+        "name": "Staggering Shield",
+        "url":"/rune/crusader/blessed-shield/a"
+      },
+      {
+        "name": "Combust",
+        "url":"/rune/crusader/blessed-shield/b"
+      },
+      {
+        "name": "Divine Aegis",
+        "url":"/rune/crusader/blessed-shield/c"
+      },
+      {
+        "name": "Shattering Throw",
+        "url":"/rune/crusader/blessed-shield/d"
+      },
+      {
+        "name": "Piercing Shield",
+        "url":"/rune/crusader/blessed-shield/e"
+      }
+    ],
+    "className": "crusader",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Condemn",
+    "blizzID": "condemn",
+    "url":"https://eu.diablo3.com/en/class/crusader/active/condemn",
+    "runes": [
+      {
+        "name": "Vacuum",
+        "url":"/rune/crusader/condemn/b"
+      },
+      {
+        "name": "Unleashed",
+        "url":"/rune/crusader/condemn/e"
+      },
+      {
+        "name": "Eternal Retaliation",
+        "url":"/rune/crusader/condemn/c"
+      },
+      {
+        "name": "Shattering Explosion",
+        "url":"/rune/crusader/condemn/d"
+      },
+      {
+        "name": "Reciprocate",
+        "url":"/rune/crusader/condemn/a"
+      }
+    ],
+    "className": "crusader",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Judgment",
+    "blizzID": "judgment",
+    "url":"https://eu.diablo3.com/en/class/crusader/active/judgment",
+    "runes": [
+      {
+        "name": "Penitence",
+        "url":"/rune/crusader/judgment/a"
+      },
+      {
+        "name": "Mass Verdict",
+        "url":"/rune/crusader/judgment/b"
+      },
+      {
+        "name": "Deliberation",
+        "url":"/rune/crusader/judgment/c"
+      },
+      {
+        "name": "Resolved",
+        "url":"/rune/crusader/judgment/d"
+      },
+      {
+        "name": "Debilitate",
+        "url":"/rune/crusader/judgment/e"
+      }
+    ],
+    "className": "crusader",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Laws of Hope",
+    "blizzID": "laws-of-hope",
+    "url":"https://eu.diablo3.com/en/class/crusader/active/laws-of-hope",
+    "runes": [
+      {
+        "name": "Wings of Angels",
+        "url":"/rune/crusader/laws-of-hope/a"
+      },
+      {
+        "name": "Eternal Hope",
+        "url":"/rune/crusader/laws-of-hope/b"
+      },
+      {
+        "name": "Hopeful Cry",
+        "url":"/rune/crusader/laws-of-hope/c"
+      },
+      {
+        "name": "Faith's Reward",
+        "url":"/rune/crusader/laws-of-hope/d"
+      },
+      {
+        "name": "Promise of Faith",
+        "url":"/rune/crusader/laws-of-hope/e"
+      }
+    ],
+    "className": "crusader",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Akarat's Champion",
+    "blizzID": "akarats-champion",
+    "url":"https://eu.diablo3.com/en/class/crusader/active/akarats-champion",
+    "runes": [
+      {
+        "name": "Fire Starter",
+        "url":"/rune/crusader/akarats-champion/a"
+      },
+      {
+        "name": "Embodiment of Power",
+        "url":"/rune/crusader/akarats-champion/b"
+      },
+      {
+        "name": "Rally",
+        "url":"/rune/crusader/akarats-champion/c"
+      },
+      {
+        "name": "Prophet",
+        "url":"/rune/crusader/akarats-champion/d"
+      },
+      {
+        "name": "Hasteful",
+        "url":"/rune/crusader/akarats-champion/e"
+      }
+    ],
+    "className": "crusader",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Fist of the Heavens",
+    "blizzID": "fist-of-the-heavens",
+    "url":"https://eu.diablo3.com/en/class/crusader/active/fist-of-the-heavens",
+    "runes": [
+      {
+        "name": "Divine Well",
+        "url":"/rune/crusader/fist-of-the-heavens/d"
+      },
+      {
+        "name": "Heaven's Tempest",
+        "url":"/rune/crusader/fist-of-the-heavens/a"
+      },
+      {
+        "name": "Fissure",
+        "url":"/rune/crusader/fist-of-the-heavens/c"
+      },
+      {
+        "name": "Reverberation",
+        "url":"/rune/crusader/fist-of-the-heavens/b"
+      },
+      {
+        "name": "Retribution",
+        "url":"/rune/crusader/fist-of-the-heavens/e"
+      }
+    ],
+    "className": "crusader",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Phalanx",
+    "blizzID": "phalanx",
+    "url":"https://eu.diablo3.com/en/class/crusader/active/phalanx",
+    "runes": [
+      {
+        "name": "Bowmen",
+        "url":"/rune/crusader/phalanx/a"
+      },
+      {
+        "name": "Shield Charge",
+        "url":"/rune/crusader/phalanx/b"
+      },
+      {
+        "name": "Stampede",
+        "url":"/rune/crusader/phalanx/c"
+      },
+      {
+        "name": "Shield Bearers",
+        "url":"/rune/crusader/phalanx/d"
+      },
+      {
+        "name": "Bodyguard",
+        "url":"/rune/crusader/phalanx/e"
+      }
+    ],
+    "className": "crusader",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Heaven's Fury",
+    "blizzID": "heavens-fury",
+    "url":"https://eu.diablo3.com/en/class/crusader/active/heavens-fury",
+    "runes": [
+      {
+        "name": "Blessed Ground",
+        "url":"/rune/crusader/heavens-fury/b"
+      },
+      {
+        "name": "Ascendancy",
+        "url":"/rune/crusader/heavens-fury/a"
+      },
+      {
+        "name": "Split Fury",
+        "url":"/rune/crusader/heavens-fury/c"
+      },
+      {
+        "name": "Thou Shalt Not Pass",
+        "url":"/rune/crusader/heavens-fury/d"
+      },
+      {
+        "name": "Fires of Heaven",
+        "url":"/rune/crusader/heavens-fury/e"
+      }
+    ],
+    "className": "crusader",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Bombardment",
+    "blizzID": "bombardment",
+    "url":"https://eu.diablo3.com/en/class/crusader/active/bombardment",
+    "runes": [
+      {
+        "name": "Barrels of Spikes",
+        "url":"/rune/crusader/bombardment/a"
+      },
+      {
+        "name": "Annihilate",
+        "url":"/rune/crusader/bombardment/b"
+      },
+      {
+        "name": "Mine Field",
+        "url":"/rune/crusader/bombardment/c"
+      },
+      {
+        "name": "Impactful Bombardment",
+        "url":"/rune/crusader/bombardment/d"
+      },
+      {
+        "name": "Targeted",
+        "url":"/rune/crusader/bombardment/e"
+      }
+    ],
+    "className": "crusader",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Heavenly Strength",
+    "blizzID": "heavenly-strength",
+    "url":"https://eu.diablo3.com/en/class/crusader/passive/heavenly-strength",
+    "runes": [
+
+    ],
+    "className": "crusader",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Fervor",
+    "blizzID": "fervor",
+    "url":"https://eu.diablo3.com/en/class/crusader/passive/fervor",
+    "runes": [
+
+    ],
+    "className": "crusader",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Vigilant",
+    "blizzID": "vigilant",
+    "url":"https://eu.diablo3.com/en/class/crusader/passive/vigilant",
+    "runes": [
+
+    ],
+    "className": "crusader",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Righteousness",
+    "blizzID": "righteousness",
+    "url":"https://eu.diablo3.com/en/class/crusader/passive/righteousness",
+    "runes": [
+
+    ],
+    "className": "crusader",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Insurmountable",
+    "blizzID": "insurmountable",
+    "url":"https://eu.diablo3.com/en/class/crusader/passive/insurmountable",
+    "runes": [
+
+    ],
+    "className": "crusader",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Fanaticism",
+    "blizzID": "fanaticism",
+    "url":"https://eu.diablo3.com/en/class/crusader/passive/fanaticism",
+    "runes": [
+
+    ],
+    "className": "crusader",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Indestructible",
+    "blizzID": "indestructible",
+    "url":"https://eu.diablo3.com/en/class/crusader/passive/indestructible",
+    "runes": [
+
+    ],
+    "className": "crusader",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Holy Cause",
+    "blizzID": "holy-cause",
+    "url":"https://eu.diablo3.com/en/class/crusader/passive/holy-cause",
+    "runes": [
+
+    ],
+    "className": "crusader",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Wrathful",
+    "blizzID": "wrathful",
+    "url":"https://eu.diablo3.com/en/class/crusader/passive/wrathful",
+    "runes": [
+
+    ],
+    "className": "crusader",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Divine Fortress",
+    "blizzID": "divine-fortress",
+    "url":"https://eu.diablo3.com/en/class/crusader/passive/divine-fortress",
+    "runes": [
+
+    ],
+    "className": "crusader",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Lord Commander",
+    "blizzID": "lord-commander",
+    "url":"https://eu.diablo3.com/en/class/crusader/passive/lord-commander",
+    "runes": [
+
+    ],
+    "className": "crusader",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Hold Your Ground",
+    "blizzID": "hold-your-ground",
+    "url":"https://eu.diablo3.com/en/class/crusader/passive/hold-your-ground",
+    "runes": [
+
+    ],
+    "className": "crusader",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Long Arm of the Law",
+    "blizzID": "long-arm-of-the-law",
+    "url":"https://eu.diablo3.com/en/class/crusader/passive/long-arm-of-the-law",
+    "runes": [
+
+    ],
+    "className": "crusader",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Iron Maiden",
+    "blizzID": "iron-maiden",
+    "url":"https://eu.diablo3.com/en/class/crusader/passive/iron-maiden",
+    "runes": [
+
+    ],
+    "className": "crusader",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Renewal",
+    "blizzID": "renewal",
+    "url":"https://eu.diablo3.com/en/class/crusader/passive/renewal",
+    "runes": [
+
+    ],
+    "className": "crusader",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Finery",
+    "blizzID": "finery",
+    "url":"https://eu.diablo3.com/en/class/crusader/passive/finery",
+    "runes": [
+
+    ],
+    "className": "crusader",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Blunt",
+    "blizzID": "blunt",
+    "url":"https://eu.diablo3.com/en/class/crusader/passive/blunt",
+    "runes": [
+
+    ],
+    "className": "crusader",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Towering Shield",
+    "blizzID": "towering-shield",
+    "url":"https://eu.diablo3.com/en/class/crusader/passive/towering-shield",
+    "runes": [
+
+    ],
+    "className": "crusader",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Hungering Arrow",
+    "blizzID": "hungering-arrow",
+    "url":"https://eu.diablo3.com/en/class/demon-hunter/active/hungering-arrow",
+    "runes": [
+      {
+        "name": "Puncturing Arrow",
+        "url":"/rune/demon-hunter/hungering-arrow/d"
+      },
+      {
+        "name": "Serrated Arrow",
+        "url":"/rune/demon-hunter/hungering-arrow/a"
+      },
+      {
+        "name": "Shatter Shot",
+        "url":"/rune/demon-hunter/hungering-arrow/b"
+      },
+      {
+        "name": "Devouring Arrow",
+        "url":"/rune/demon-hunter/hungering-arrow/c"
+      },
+      {
+        "name": "Spray of Teeth",
+        "url":"/rune/demon-hunter/hungering-arrow/e"
+      }
+    ],
+    "className": "demon-hunter",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Impale",
+    "blizzID": "impale",
+    "url":"https://eu.diablo3.com/en/class/demon-hunter/active/impale",
+    "runes": [
+      {
+        "name": "Impact",
+        "url":"/rune/demon-hunter/impale/b"
+      },
+      {
+        "name": "Chemical Burn",
+        "url":"/rune/demon-hunter/impale/c"
+      },
+      {
+        "name": "Overpenetration",
+        "url":"/rune/demon-hunter/impale/a"
+      },
+      {
+        "name": "Ricochet",
+        "url":"/rune/demon-hunter/impale/d"
+      },
+      {
+        "name": "Grievous Wounds",
+        "url":"/rune/demon-hunter/impale/e"
+      }
+    ],
+    "className": "demon-hunter",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Entangling Shot",
+    "blizzID": "entangling-shot",
+    "url":"https://eu.diablo3.com/en/class/demon-hunter/active/entangling-shot",
+    "runes": [
+      {
+        "name": "Chain Gang",
+        "url":"/rune/demon-hunter/entangling-shot/b"
+      },
+      {
+        "name": "Shock Collar",
+        "url":"/rune/demon-hunter/entangling-shot/c"
+      },
+      {
+        "name": "Heavy Burden",
+        "url":"/rune/demon-hunter/entangling-shot/a"
+      },
+      {
+        "name": "Justice is Served",
+        "url":"/rune/demon-hunter/entangling-shot/d"
+      },
+      {
+        "name": "Bounty Hunter",
+        "url":"/rune/demon-hunter/entangling-shot/e"
+      }
+    ],
+    "className": "demon-hunter",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Caltrops",
+    "blizzID": "caltrops",
+    "url":"https://eu.diablo3.com/en/class/demon-hunter/active/caltrops",
+    "runes": [
+      {
+        "name": "Hooked Spines",
+        "url":"/rune/demon-hunter/caltrops/b"
+      },
+      {
+        "name": "Torturous Ground",
+        "url":"/rune/demon-hunter/caltrops/c"
+      },
+      {
+        "name": "Jagged Spikes",
+        "url":"/rune/demon-hunter/caltrops/a"
+      },
+      {
+        "name": "Carved Stakes",
+        "url":"/rune/demon-hunter/caltrops/d"
+      },
+      {
+        "name": "Bait the Trap",
+        "url":"/rune/demon-hunter/caltrops/e"
+      }
+    ],
+    "className": "demon-hunter",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Rapid Fire",
+    "blizzID": "rapid-fire",
+    "url":"https://eu.diablo3.com/en/class/demon-hunter/active/rapid-fire",
+    "runes": [
+      {
+        "name": "Withering Fire",
+        "url":"/rune/demon-hunter/rapid-fire/d"
+      },
+      {
+        "name": "Frost Shots",
+        "url":"/rune/demon-hunter/rapid-fire/e"
+      },
+      {
+        "name": "Fire Support",
+        "url":"/rune/demon-hunter/rapid-fire/c"
+      },
+      {
+        "name": "High Velocity",
+        "url":"/rune/demon-hunter/rapid-fire/b"
+      },
+      {
+        "name": "Bombardment",
+        "url":"/rune/demon-hunter/rapid-fire/a"
+      }
+    ],
+    "className": "demon-hunter",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Smoke Screen",
+    "blizzID": "smoke-screen",
+    "url":"https://eu.diablo3.com/en/class/demon-hunter/active/smoke-screen",
+    "runes": [
+      {
+        "name": "Displacement",
+        "url":"/rune/demon-hunter/smoke-screen/e"
+      },
+      {
+        "name": "Lingering Fog",
+        "url":"/rune/demon-hunter/smoke-screen/b"
+      },
+      {
+        "name": "Healing Vapors",
+        "url":"/rune/demon-hunter/smoke-screen/c"
+      },
+      {
+        "name": "Special Recipe",
+        "url":"/rune/demon-hunter/smoke-screen/d"
+      },
+      {
+        "name": "Vanishing Powder",
+        "url":"/rune/demon-hunter/smoke-screen/a"
+      }
+    ],
+    "className": "demon-hunter",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Vault",
+    "blizzID": "vault",
+    "url":"https://eu.diablo3.com/en/class/demon-hunter/active/vault",
+    "runes": [
+      {
+        "name": "Action Shot",
+        "url":"/rune/demon-hunter/vault/c"
+      },
+      {
+        "name": "Rattling Roll",
+        "url":"/rune/demon-hunter/vault/e"
+      },
+      {
+        "name": "Tumble",
+        "url":"/rune/demon-hunter/vault/d"
+      },
+      {
+        "name": "Acrobatics",
+        "url":"/rune/demon-hunter/vault/b"
+      },
+      {
+        "name": "Trail of Cinders",
+        "url":"/rune/demon-hunter/vault/a"
+      }
+    ],
+    "className": "demon-hunter",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Bolas",
+    "blizzID": "bolas",
+    "url":"https://eu.diablo3.com/en/class/demon-hunter/active/bolas",
+    "runes": [
+      {
+        "name": "Volatile Explosives",
+        "url":"/rune/demon-hunter/bolas/a"
+      },
+      {
+        "name": "Thunder Ball",
+        "url":"/rune/demon-hunter/bolas/c"
+      },
+      {
+        "name": "Freezing Strike",
+        "url":"/rune/demon-hunter/bolas/b"
+      },
+      {
+        "name": "Bitter Pill",
+        "url":"/rune/demon-hunter/bolas/d"
+      },
+      {
+        "name": "Imminent Doom",
+        "url":"/rune/demon-hunter/bolas/e"
+      }
+    ],
+    "className": "demon-hunter",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Chakram",
+    "blizzID": "chakram",
+    "url":"https://eu.diablo3.com/en/class/demon-hunter/active/chakram",
+    "runes": [
+      {
+        "name": "Twin Chakrams",
+        "url":"/rune/demon-hunter/chakram/a"
+      },
+      {
+        "name": "Serpentine",
+        "url":"/rune/demon-hunter/chakram/c"
+      },
+      {
+        "name": "Razor Disk",
+        "url":"/rune/demon-hunter/chakram/d"
+      },
+      {
+        "name": "Boomerang",
+        "url":"/rune/demon-hunter/chakram/b"
+      },
+      {
+        "name": "Shuriken Cloud",
+        "url":"/rune/demon-hunter/chakram/e"
+      }
+    ],
+    "className": "demon-hunter",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Preparation",
+    "blizzID": "preparation",
+    "url":"https://eu.diablo3.com/en/class/demon-hunter/active/preparation",
+    "runes": [
+      {
+        "name": "Invigoration",
+        "url":"/rune/demon-hunter/preparation/b"
+      },
+      {
+        "name": "Punishment",
+        "url":"/rune/demon-hunter/preparation/a"
+      },
+      {
+        "name": "Battle Scars",
+        "url":"/rune/demon-hunter/preparation/d"
+      },
+      {
+        "name": "Focused Mind",
+        "url":"/rune/demon-hunter/preparation/c"
+      },
+      {
+        "name": "Backup Plan",
+        "url":"/rune/demon-hunter/preparation/e"
+      }
+    ],
+    "className": "demon-hunter",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Fan of Knives",
+    "blizzID": "fan-of-knives",
+    "url":"https://eu.diablo3.com/en/class/demon-hunter/active/fan-of-knives",
+    "runes": [
+      {
+        "name": "Pinpoint Accuracy",
+        "url":"/rune/demon-hunter/fan-of-knives/d"
+      },
+      {
+        "name": "Bladed Armor",
+        "url":"/rune/demon-hunter/fan-of-knives/e"
+      },
+      {
+        "name": "Knives Expert",
+        "url":"/rune/demon-hunter/fan-of-knives/a"
+      },
+      {
+        "name": "Fan of Daggers",
+        "url":"/rune/demon-hunter/fan-of-knives/c"
+      },
+      {
+        "name": "Assassin's Knives",
+        "url":"/rune/demon-hunter/fan-of-knives/b"
+      }
+    ],
+    "className": "demon-hunter",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Evasive Fire",
+    "blizzID": "evasive-fire",
+    "url":"https://eu.diablo3.com/en/class/demon-hunter/active/evasive-fire",
+    "runes": [
+      {
+        "name": "Hardened",
+        "url":"/rune/demon-hunter/evasive-fire/a"
+      },
+      {
+        "name": "Parting Gift",
+        "url":"/rune/demon-hunter/evasive-fire/c"
+      },
+      {
+        "name": "Covering Fire",
+        "url":"/rune/demon-hunter/evasive-fire/b"
+      },
+      {
+        "name": "Focus",
+        "url":"/rune/demon-hunter/evasive-fire/e"
+      },
+      {
+        "name": "Surge",
+        "url":"/rune/demon-hunter/evasive-fire/d"
+      }
+    ],
+    "className": "demon-hunter",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Grenade",
+    "blizzID": "grenade",
+    "url":"https://eu.diablo3.com/en/class/demon-hunter/active/grenade",
+    "runes": [
+      {
+        "name": "Tinkerer",
+        "url":"/rune/demon-hunter/grenade/d"
+      },
+      {
+        "name": "Cluster Grenades",
+        "url":"/rune/demon-hunter/grenade/b"
+      },
+      {
+        "name": "Grenade Cache",
+        "url":"/rune/demon-hunter/grenade/c"
+      },
+      {
+        "name": "Stun Grenade",
+        "url":"/rune/demon-hunter/grenade/e"
+      },
+      {
+        "name": "Cold Grenade",
+        "url":"/rune/demon-hunter/grenade/a"
+      }
+    ],
+    "className": "demon-hunter",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Shadow Power",
+    "blizzID": "shadow-power",
+    "url":"https://eu.diablo3.com/en/class/demon-hunter/active/shadow-power",
+    "runes": [
+      {
+        "name": "Night Bane",
+        "url":"/rune/demon-hunter/shadow-power/a"
+      },
+      {
+        "name": "Blood Moon",
+        "url":"/rune/demon-hunter/shadow-power/e"
+      },
+      {
+        "name": "Well of Darkness",
+        "url":"/rune/demon-hunter/shadow-power/d"
+      },
+      {
+        "name": "Gloom",
+        "url":"/rune/demon-hunter/shadow-power/c"
+      },
+      {
+        "name": "Shadow Glide",
+        "url":"/rune/demon-hunter/shadow-power/b"
+      }
+    ],
+    "className": "demon-hunter",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Spike Trap",
+    "blizzID": "spike-trap",
+    "url":"https://eu.diablo3.com/en/class/demon-hunter/active/spike-trap",
+    "runes": [
+      {
+        "name": "Echoing Blast",
+        "url":"/rune/demon-hunter/spike-trap/b"
+      },
+      {
+        "name": "Custom Trigger",
+        "url":"/rune/demon-hunter/spike-trap/c"
+      },
+      {
+        "name": "Impaling Spines",
+        "url":"/rune/demon-hunter/spike-trap/a"
+      },
+      {
+        "name": "Lightning Rod",
+        "url":"/rune/demon-hunter/spike-trap/e"
+      },
+      {
+        "name": "Scatter",
+        "url":"/rune/demon-hunter/spike-trap/d"
+      }
+    ],
+    "className": "demon-hunter",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Companion",
+    "blizzID": "companion",
+    "url":"https://eu.diablo3.com/en/class/demon-hunter/active/companion",
+    "runes": [
+      {
+        "name": "Spider Companion",
+        "url":"/rune/demon-hunter/companion/a"
+      },
+      {
+        "name": "Bat Companion",
+        "url":"/rune/demon-hunter/companion/d"
+      },
+      {
+        "name": "Boar Companion",
+        "url":"/rune/demon-hunter/companion/b"
+      },
+      {
+        "name": "Ferret Companion",
+        "url":"/rune/demon-hunter/companion/e"
+      },
+      {
+        "name": "Wolf Companion",
+        "url":"/rune/demon-hunter/companion/c"
+      }
+    ],
+    "className": "demon-hunter",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Strafe",
+    "blizzID": "strafe",
+    "url":"https://eu.diablo3.com/en/class/demon-hunter/active/strafe",
+    "runes": [
+      {
+        "name": "Icy Trail",
+        "url":"/rune/demon-hunter/strafe/b"
+      },
+      {
+        "name": "Drifting Shadow",
+        "url":"/rune/demon-hunter/strafe/d"
+      },
+      {
+        "name": "Stinging Steel",
+        "url":"/rune/demon-hunter/strafe/e"
+      },
+      {
+        "name": "Rocket Storm",
+        "url":"/rune/demon-hunter/strafe/c"
+      },
+      {
+        "name": "Demolition",
+        "url":"/rune/demon-hunter/strafe/a"
+      }
+    ],
+    "className": "demon-hunter",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Elemental Arrow",
+    "blizzID": "elemental-arrow",
+    "url":"https://eu.diablo3.com/en/class/demon-hunter/active/elemental-arrow",
+    "runes": [
+      {
+        "name": "Ball Lightning",
+        "url":"/rune/demon-hunter/elemental-arrow/b"
+      },
+      {
+        "name": "Frost Arrow",
+        "url":"/rune/demon-hunter/elemental-arrow/a"
+      },
+      {
+        "name": "Immolation Arrow",
+        "url":"/rune/demon-hunter/elemental-arrow/c"
+      },
+      {
+        "name": "Lightning Bolts",
+        "url":"/rune/demon-hunter/elemental-arrow/e"
+      },
+      {
+        "name": "Nether Tentacles",
+        "url":"/rune/demon-hunter/elemental-arrow/d"
+      }
+    ],
+    "className": "demon-hunter",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Marked for Death",
+    "blizzID": "marked-for-death",
+    "url":"https://eu.diablo3.com/en/class/demon-hunter/active/marked-for-death",
+    "runes": [
+      {
+        "name": "Contagion",
+        "url":"/rune/demon-hunter/marked-for-death/b"
+      },
+      {
+        "name": "Valley of Death",
+        "url":"/rune/demon-hunter/marked-for-death/c"
+      },
+      {
+        "name": "Grim Reaper",
+        "url":"/rune/demon-hunter/marked-for-death/a"
+      },
+      {
+        "name": "Mortal Enemy",
+        "url":"/rune/demon-hunter/marked-for-death/d"
+      },
+      {
+        "name": "Death Toll",
+        "url":"/rune/demon-hunter/marked-for-death/e"
+      }
+    ],
+    "className": "demon-hunter",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Multishot",
+    "blizzID": "multishot",
+    "url":"https://eu.diablo3.com/en/class/demon-hunter/active/multishot",
+    "runes": [
+      {
+        "name": "Fire at Will",
+        "url":"/rune/demon-hunter/multishot/d"
+      },
+      {
+        "name": "Wind Chill",
+        "url":"/rune/demon-hunter/multishot/b"
+      },
+      {
+        "name": "Suppression Fire",
+        "url":"/rune/demon-hunter/multishot/e"
+      },
+      {
+        "name": "Full Broadside",
+        "url":"/rune/demon-hunter/multishot/a"
+      },
+      {
+        "name": "Arsenal",
+        "url":"/rune/demon-hunter/multishot/c"
+      }
+    ],
+    "className": "demon-hunter",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Sentry",
+    "blizzID": "sentry",
+    "url":"https://eu.diablo3.com/en/class/demon-hunter/active/sentry",
+    "runes": [
+      {
+        "name": "Spitfire Turret",
+        "url":"/rune/demon-hunter/sentry/c"
+      },
+      {
+        "name": "Impaling Bolt",
+        "url":"/rune/demon-hunter/sentry/b"
+      },
+      {
+        "name": "Chain of Torment",
+        "url":"/rune/demon-hunter/sentry/a"
+      },
+      {
+        "name": "Polar Station",
+        "url":"/rune/demon-hunter/sentry/d"
+      },
+      {
+        "name": "Guardian Turret",
+        "url":"/rune/demon-hunter/sentry/e"
+      }
+    ],
+    "className": "demon-hunter",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Cluster Arrow",
+    "blizzID": "cluster-arrow",
+    "url":"https://eu.diablo3.com/en/class/demon-hunter/active/cluster-arrow",
+    "runes": [
+      {
+        "name": "Dazzling Arrow",
+        "url":"/rune/demon-hunter/cluster-arrow/e"
+      },
+      {
+        "name": "Shooting Stars",
+        "url":"/rune/demon-hunter/cluster-arrow/b"
+      },
+      {
+        "name": "Maelstrom",
+        "url":"/rune/demon-hunter/cluster-arrow/d"
+      },
+      {
+        "name": "Cluster Bombs",
+        "url":"/rune/demon-hunter/cluster-arrow/c"
+      },
+      {
+        "name": "Loaded for Bear",
+        "url":"/rune/demon-hunter/cluster-arrow/a"
+      }
+    ],
+    "className": "demon-hunter",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Rain of Vengeance",
+    "blizzID": "rain-of-vengeance",
+    "url":"https://eu.diablo3.com/en/class/demon-hunter/active/rain-of-vengeance",
+    "runes": [
+      {
+        "name": "Dark Cloud",
+        "url":"/rune/demon-hunter/rain-of-vengeance/b"
+      },
+      {
+        "name": "Shade",
+        "url":"/rune/demon-hunter/rain-of-vengeance/a"
+      },
+      {
+        "name": "Stampede",
+        "url":"/rune/demon-hunter/rain-of-vengeance/e"
+      },
+      {
+        "name": "Anathema",
+        "url":"/rune/demon-hunter/rain-of-vengeance/c"
+      },
+      {
+        "name": "Flying Strike",
+        "url":"/rune/demon-hunter/rain-of-vengeance/d"
+      }
+    ],
+    "className": "demon-hunter",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Vengeance",
+    "blizzID": "vengeance",
+    "url":"https://eu.diablo3.com/en/class/demon-hunter/active/vengeance",
+    "runes": [
+      {
+        "name": "Personal Mortar",
+        "url":"/rune/demon-hunter/vengeance/c"
+      },
+      {
+        "name": "Dark Heart",
+        "url":"/rune/demon-hunter/vengeance/b"
+      },
+      {
+        "name": "Side Cannons",
+        "url":"/rune/demon-hunter/vengeance/d"
+      },
+      {
+        "name": "Seethe",
+        "url":"/rune/demon-hunter/vengeance/e"
+      },
+      {
+        "name": "From the Shadows",
+        "url":"/rune/demon-hunter/vengeance/a"
+      }
+    ],
+    "className": "demon-hunter",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Thrill of the Hunt",
+    "blizzID": "thrill-of-the-hunt",
+    "url":"https://eu.diablo3.com/en/class/demon-hunter/passive/thrill-of-the-hunt",
+    "runes": [
+
+    ],
+    "className": "demon-hunter",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Tactical Advantage",
+    "blizzID": "tactical-advantage",
+    "url":"https://eu.diablo3.com/en/class/demon-hunter/passive/tactical-advantage",
+    "runes": [
+
+    ],
+    "className": "demon-hunter",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Blood Vengeance",
+    "blizzID": "blood-vengeance",
+    "url":"https://eu.diablo3.com/en/class/demon-hunter/passive/blood-vengeance",
+    "runes": [
+
+    ],
+    "className": "demon-hunter",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Steady Aim",
+    "blizzID": "steady-aim",
+    "url":"https://eu.diablo3.com/en/class/demon-hunter/passive/steady-aim",
+    "runes": [
+
+    ],
+    "className": "demon-hunter",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Cull the Weak",
+    "blizzID": "cull-the-weak",
+    "url":"https://eu.diablo3.com/en/class/demon-hunter/passive/cull-the-weak",
+    "runes": [
+
+    ],
+    "className": "demon-hunter",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Night Stalker",
+    "blizzID": "night-stalker",
+    "url":"https://eu.diablo3.com/en/class/demon-hunter/passive/night-stalker",
+    "runes": [
+
+    ],
+    "className": "demon-hunter",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Brooding",
+    "blizzID": "brooding",
+    "url":"https://eu.diablo3.com/en/class/demon-hunter/passive/brooding",
+    "runes": [
+
+    ],
+    "className": "demon-hunter",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Hot Pursuit",
+    "blizzID": "hot-pursuit",
+    "url":"https://eu.diablo3.com/en/class/demon-hunter/passive/hot-pursuit",
+    "runes": [
+
+    ],
+    "className": "demon-hunter",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Archery",
+    "blizzID": "archery",
+    "url":"https://eu.diablo3.com/en/class/demon-hunter/passive/archery",
+    "runes": [
+
+    ],
+    "className": "demon-hunter",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Numbing Traps",
+    "blizzID": "numbing-traps",
+    "url":"https://eu.diablo3.com/en/class/demon-hunter/passive/numbing-traps",
+    "runes": [
+
+    ],
+    "className": "demon-hunter",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Perfectionist",
+    "blizzID": "perfectionist",
+    "url":"https://eu.diablo3.com/en/class/demon-hunter/passive/perfectionist",
+    "runes": [
+
+    ],
+    "className": "demon-hunter",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Custom Engineering",
+    "blizzID": "custom-engineering",
+    "url":"https://eu.diablo3.com/en/class/demon-hunter/passive/custom-engineering",
+    "runes": [
+
+    ],
+    "className": "demon-hunter",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Grenadier",
+    "blizzID": "grenadier",
+    "url":"https://eu.diablo3.com/en/class/demon-hunter/passive/grenadier",
+    "runes": [
+
+    ],
+    "className": "demon-hunter",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Sharpshooter",
+    "blizzID": "sharpshooter",
+    "url":"https://eu.diablo3.com/en/class/demon-hunter/passive/sharpshooter",
+    "runes": [
+
+    ],
+    "className": "demon-hunter",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Ballistics",
+    "blizzID": "ballistics",
+    "url":"https://eu.diablo3.com/en/class/demon-hunter/passive/ballistics",
+    "runes": [
+
+    ],
+    "className": "demon-hunter",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Leech",
+    "blizzID": "leech",
+    "url":"https://eu.diablo3.com/en/class/demon-hunter/passive/leech",
+    "runes": [
+
+    ],
+    "className": "demon-hunter",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Ambush",
+    "blizzID": "ambush",
+    "url":"https://eu.diablo3.com/en/class/demon-hunter/passive/ambush",
+    "runes": [
+
+    ],
+    "className": "demon-hunter",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Awareness",
+    "blizzID": "awareness",
+    "url":"https://eu.diablo3.com/en/class/demon-hunter/passive/awareness",
+    "runes": [
+
+    ],
+    "className": "demon-hunter",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Single Out",
+    "blizzID": "single-out",
+    "url":"https://eu.diablo3.com/en/class/demon-hunter/passive/single-out",
+    "runes": [
+
+    ],
+    "className": "demon-hunter",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Fists of Thunder",
+    "blizzID": "fists-of-thunder",
+    "url":"https://eu.diablo3.com/en/class/monk/active/fists-of-thunder",
+    "runes": [
+      {
+        "name": "Thunderclap",
+        "url":"/rune/monk/fists-of-thunder/a"
+      },
+      {
+        "name": "Wind Blast",
+        "url":"/rune/monk/fists-of-thunder/e"
+      },
+      {
+        "name": "Static Charge",
+        "url":"/rune/monk/fists-of-thunder/c"
+      },
+      {
+        "name": "Quickening",
+        "url":"/rune/monk/fists-of-thunder/d"
+      },
+      {
+        "name": "Bounding Light",
+        "url":"/rune/monk/fists-of-thunder/b"
+      }
+    ],
+    "className": "monk",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Lashing Tail Kick",
+    "blizzID": "lashing-tail-kick",
+    "url":"https://eu.diablo3.com/en/class/monk/active/lashing-tail-kick",
+    "runes": [
+      {
+        "name": "Vulture Claw Kick",
+        "url":"/rune/monk/lashing-tail-kick/a"
+      },
+      {
+        "name": "Sweeping Armada ",
+        "url":"/rune/monk/lashing-tail-kick/d"
+      },
+      {
+        "name": "Spinning Flame Kick",
+        "url":"/rune/monk/lashing-tail-kick/b"
+      },
+      {
+        "name": "Scorpion Sting",
+        "url":"/rune/monk/lashing-tail-kick/e"
+      },
+      {
+        "name": "Hand of Ytar",
+        "url":"/rune/monk/lashing-tail-kick/c"
+      }
+    ],
+    "className": "monk",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Deadly Reach",
+    "blizzID": "deadly-reach",
+    "url":"https://eu.diablo3.com/en/class/monk/active/deadly-reach",
+    "runes": [
+      {
+        "name": "Piercing Trident",
+        "url":"/rune/monk/deadly-reach/b"
+      },
+      {
+        "name": "Searing Grasp",
+        "url":"/rune/monk/deadly-reach/e"
+      },
+      {
+        "name": "Scattered Blows",
+        "url":"/rune/monk/deadly-reach/c"
+      },
+      {
+        "name": "Strike from Beyond",
+        "url":"/rune/monk/deadly-reach/d"
+      },
+      {
+        "name": "Foresight",
+        "url":"/rune/monk/deadly-reach/a"
+      }
+    ],
+    "className": "monk",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Blinding Flash",
+    "blizzID": "blinding-flash",
+    "url":"https://eu.diablo3.com/en/class/monk/active/blinding-flash",
+    "runes": [
+      {
+        "name": "Self Reflection",
+        "url":"/rune/monk/blinding-flash/d"
+      },
+      {
+        "name": "Mystifying Light",
+        "url":"/rune/monk/blinding-flash/c"
+      },
+      {
+        "name": "Replenishing Light",
+        "url":"/rune/monk/blinding-flash/b"
+      },
+      {
+        "name": "Crippling Light",
+        "url":"/rune/monk/blinding-flash/e"
+      },
+      {
+        "name": "Faith in the Light",
+        "url":"/rune/monk/blinding-flash/a"
+      }
+    ],
+    "className": "monk",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Tempest Rush",
+    "blizzID": "tempest-rush",
+    "url":"https://eu.diablo3.com/en/class/monk/active/tempest-rush",
+    "runes": [
+      {
+        "name": "Northern Breeze",
+        "url":"/rune/monk/tempest-rush/d"
+      },
+      {
+        "name": "Tailwind",
+        "url":"/rune/monk/tempest-rush/b"
+      },
+      {
+        "name": "Flurry",
+        "url":"/rune/monk/tempest-rush/e"
+      },
+      {
+        "name": "Electric Field",
+        "url":"/rune/monk/tempest-rush/c"
+      },
+      {
+        "name": "Bluster",
+        "url":"/rune/monk/tempest-rush/a"
+      }
+    ],
+    "className": "monk",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Breath of Heaven",
+    "blizzID": "breath-of-heaven",
+    "url":"https://eu.diablo3.com/en/class/monk/active/breath-of-heaven",
+    "runes": [
+      {
+        "name": "Circle of Scorn",
+        "url":"/rune/monk/breath-of-heaven/a"
+      },
+      {
+        "name": "Circle of Life",
+        "url":"/rune/monk/breath-of-heaven/b"
+      },
+      {
+        "name": "Blazing Wrath",
+        "url":"/rune/monk/breath-of-heaven/c"
+      },
+      {
+        "name": "Infused with Light",
+        "url":"/rune/monk/breath-of-heaven/d"
+      },
+      {
+        "name": "Zephyr",
+        "url":"/rune/monk/breath-of-heaven/e"
+      }
+    ],
+    "className": "monk",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Dashing Strike",
+    "blizzID": "dashing-strike",
+    "url":"https://eu.diablo3.com/en/class/monk/active/dashing-strike",
+    "runes": [
+      {
+        "name": "Way of the Falling Star",
+        "url":"/rune/monk/dashing-strike/b"
+      },
+      {
+        "name": "Blinding Speed",
+        "url":"/rune/monk/dashing-strike/c"
+      },
+      {
+        "name": "Quicksilver",
+        "url":"/rune/monk/dashing-strike/d"
+      },
+      {
+        "name": "Radiance",
+        "url":"/rune/monk/dashing-strike/e"
+      },
+      {
+        "name": "Barrage",
+        "url":"/rune/monk/dashing-strike/a"
+      }
+    ],
+    "className": "monk",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Crippling Wave",
+    "blizzID": "crippling-wave",
+    "url":"https://eu.diablo3.com/en/class/monk/active/crippling-wave",
+    "runes": [
+      {
+        "name": "Mangle",
+        "url":"/rune/monk/crippling-wave/a"
+      },
+      {
+        "name": "Concussion",
+        "url":"/rune/monk/crippling-wave/c"
+      },
+      {
+        "name": "Rising Tide",
+        "url":"/rune/monk/crippling-wave/d"
+      },
+      {
+        "name": "Tsunami",
+        "url":"/rune/monk/crippling-wave/b"
+      },
+      {
+        "name": "Breaking Wave",
+        "url":"/rune/monk/crippling-wave/e"
+      }
+    ],
+    "className": "monk",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Wave of Light",
+    "blizzID": "wave-of-light",
+    "url":"https://eu.diablo3.com/en/class/monk/active/wave-of-light",
+    "runes": [
+      {
+        "name": "Wall of Light",
+        "url":"/rune/monk/wave-of-light/a"
+      },
+      {
+        "name": "Explosive Light",
+        "url":"/rune/monk/wave-of-light/b"
+      },
+      {
+        "name": "Empowered Wave",
+        "url":"/rune/monk/wave-of-light/d"
+      },
+      {
+        "name": "Shattering Light",
+        "url":"/rune/monk/wave-of-light/e"
+      },
+      {
+        "name": "Pillar of the Ancients",
+        "url":"/rune/monk/wave-of-light/c"
+      }
+    ],
+    "className": "monk",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Exploding Palm",
+    "blizzID": "exploding-palm",
+    "url":"https://eu.diablo3.com/en/class/monk/active/exploding-palm",
+    "runes": [
+      {
+        "name": "The Flesh is Weak",
+        "url":"/rune/monk/exploding-palm/c"
+      },
+      {
+        "name": "Strong Spirit",
+        "url":"/rune/monk/exploding-palm/d"
+      },
+      {
+        "name": "Impending Doom",
+        "url":"/rune/monk/exploding-palm/b"
+      },
+      {
+        "name": "Shocking Grasp",
+        "url":"/rune/monk/exploding-palm/a"
+      },
+      {
+        "name": "Essence Burn",
+        "url":"/rune/monk/exploding-palm/e"
+      }
+    ],
+    "className": "monk",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Cyclone Strike",
+    "blizzID": "cyclone-strike",
+    "url":"https://eu.diablo3.com/en/class/monk/active/cyclone-strike",
+    "runes": [
+      {
+        "name": "Eye of the Storm",
+        "url":"/rune/monk/cyclone-strike/d"
+      },
+      {
+        "name": "Implosion",
+        "url":"/rune/monk/cyclone-strike/b"
+      },
+      {
+        "name": "Sunburst",
+        "url":"/rune/monk/cyclone-strike/a"
+      },
+      {
+        "name": "Wall of Wind",
+        "url":"/rune/monk/cyclone-strike/e"
+      },
+      {
+        "name": "Soothing Breeze",
+        "url":"/rune/monk/cyclone-strike/c"
+      }
+    ],
+    "className": "monk",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Way of the Hundred Fists",
+    "blizzID": "way-of-the-hundred-fists",
+    "url":"https://eu.diablo3.com/en/class/monk/active/way-of-the-hundred-fists",
+    "runes": [
+      {
+        "name": "Hands of Lightning",
+        "url":"/rune/monk/way-of-the-hundred-fists/b"
+      },
+      {
+        "name": "Blazing Fists",
+        "url":"/rune/monk/way-of-the-hundred-fists/c"
+      },
+      {
+        "name": "Fists of Fury",
+        "url":"/rune/monk/way-of-the-hundred-fists/a"
+      },
+      {
+        "name": "Assimilation",
+        "url":"/rune/monk/way-of-the-hundred-fists/d"
+      },
+      {
+        "name": "Windforce Flurry",
+        "url":"/rune/monk/way-of-the-hundred-fists/e"
+      }
+    ],
+    "className": "monk",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Serenity",
+    "blizzID": "serenity",
+    "url":"https://eu.diablo3.com/en/class/monk/active/serenity",
+    "runes": [
+      {
+        "name": "Peaceful Repose",
+        "url":"/rune/monk/serenity/a"
+      },
+      {
+        "name": "Unwelcome Disturbance",
+        "url":"/rune/monk/serenity/e"
+      },
+      {
+        "name": "Tranquility",
+        "url":"/rune/monk/serenity/d"
+      },
+      {
+        "name": "Ascension",
+        "url":"/rune/monk/serenity/c"
+      },
+      {
+        "name": "Instant Karma",
+        "url":"/rune/monk/serenity/b"
+      }
+    ],
+    "className": "monk",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Seven-Sided Strike",
+    "blizzID": "sevensided-strike",
+    "url":"https://eu.diablo3.com/en/class/monk/active/sevensided-strike",
+    "runes": [
+      {
+        "name": "Sudden Assault",
+        "url":"/rune/monk/sevensided-strike/a"
+      },
+      {
+        "name": "Incinerate",
+        "url":"/rune/monk/sevensided-strike/b"
+      },
+      {
+        "name": "Pandemonium",
+        "url":"/rune/monk/sevensided-strike/c"
+      },
+      {
+        "name": "Sustained Attack",
+        "url":"/rune/monk/sevensided-strike/d"
+      },
+      {
+        "name": "Fulminating Onslaught",
+        "url":"/rune/monk/sevensided-strike/e"
+      }
+    ],
+    "className": "monk",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Mantra of Salvation",
+    "blizzID": "mantra-of-salvation",
+    "url":"https://eu.diablo3.com/en/class/monk/active/mantra-of-salvation",
+    "runes": [
+      {
+        "name": "Hard Target",
+        "url":"/rune/monk/mantra-of-salvation/c"
+      },
+      {
+        "name": "Divine Protection",
+        "url":"/rune/monk/mantra-of-salvation/e"
+      },
+      {
+        "name": "Wind through the Reeds",
+        "url":"/rune/monk/mantra-of-salvation/d"
+      },
+      {
+        "name": "Perseverance",
+        "url":"/rune/monk/mantra-of-salvation/b"
+      },
+      {
+        "name": "Agility",
+        "url":"/rune/monk/mantra-of-salvation/a"
+      }
+    ],
+    "className": "monk",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Sweeping Wind",
+    "blizzID": "sweeping-wind",
+    "url":"https://eu.diablo3.com/en/class/monk/active/sweeping-wind",
+    "runes": [
+      {
+        "name": "Master of Wind",
+        "url":"/rune/monk/sweeping-wind/e"
+      },
+      {
+        "name": "Blade Storm",
+        "url":"/rune/monk/sweeping-wind/a"
+      },
+      {
+        "name": "Fire Storm",
+        "url":"/rune/monk/sweeping-wind/b"
+      },
+      {
+        "name": "Inner Storm",
+        "url":"/rune/monk/sweeping-wind/d"
+      },
+      {
+        "name": "Cyclone",
+        "url":"/rune/monk/sweeping-wind/c"
+      }
+    ],
+    "className": "monk",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Mantra of Retribution",
+    "blizzID": "mantra-of-retribution",
+    "url":"https://eu.diablo3.com/en/class/monk/active/mantra-of-retribution",
+    "runes": [
+      {
+        "name": "Retaliation",
+        "url":"/rune/monk/mantra-of-retribution/a"
+      },
+      {
+        "name": "Transgression",
+        "url":"/rune/monk/mantra-of-retribution/b"
+      },
+      {
+        "name": "Indignation",
+        "url":"/rune/monk/mantra-of-retribution/c"
+      },
+      {
+        "name": "Against All Odds",
+        "url":"/rune/monk/mantra-of-retribution/d"
+      },
+      {
+        "name": "Collateral Damage",
+        "url":"/rune/monk/mantra-of-retribution/e"
+      }
+    ],
+    "className": "monk",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Inner Sanctuary",
+    "blizzID": "inner-sanctuary",
+    "url":"https://eu.diablo3.com/en/class/monk/active/inner-sanctuary",
+    "runes": [
+      {
+        "name": "Sanctified Ground",
+        "url":"/rune/monk/inner-sanctuary/b"
+      },
+      {
+        "name": "Safe Haven",
+        "url":"/rune/monk/inner-sanctuary/d"
+      },
+      {
+        "name": "Temple of Protection",
+        "url":"/rune/monk/inner-sanctuary/c"
+      },
+      {
+        "name": "Intervene",
+        "url":"/rune/monk/inner-sanctuary/a"
+      },
+      {
+        "name": "Forbidden Palace",
+        "url":"/rune/monk/inner-sanctuary/e"
+      }
+    ],
+    "className": "monk",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Mystic Ally",
+    "blizzID": "mystic-ally",
+    "url":"https://eu.diablo3.com/en/class/monk/active/mystic-ally",
+    "runes": [
+      {
+        "name": "Water Ally",
+        "url":"/rune/monk/mystic-ally/b"
+      },
+      {
+        "name": "Fire Ally",
+        "url":"/rune/monk/mystic-ally/a"
+      },
+      {
+        "name": "Air Ally",
+        "url":"/rune/monk/mystic-ally/d"
+      },
+      {
+        "name": "Enduring Ally",
+        "url":"/rune/monk/mystic-ally/e"
+      },
+      {
+        "name": "Earth Ally",
+        "url":"/rune/monk/mystic-ally/c"
+      }
+    ],
+    "className": "monk",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Mantra of Healing",
+    "blizzID": "mantra-of-healing",
+    "url":"https://eu.diablo3.com/en/class/monk/active/mantra-of-healing",
+    "runes": [
+      {
+        "name": "Sustenance",
+        "url":"/rune/monk/mantra-of-healing/a"
+      },
+      {
+        "name": "Circular Breathing",
+        "url":"/rune/monk/mantra-of-healing/d"
+      },
+      {
+        "name": "Boon of Inspiration",
+        "url":"/rune/monk/mantra-of-healing/b"
+      },
+      {
+        "name": "Heavenly Body",
+        "url":"/rune/monk/mantra-of-healing/c"
+      },
+      {
+        "name": "Time of Need",
+        "url":"/rune/monk/mantra-of-healing/e"
+      }
+    ],
+    "className": "monk",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Mantra of Conviction",
+    "blizzID": "mantra-of-conviction",
+    "url":"https://eu.diablo3.com/en/class/monk/active/mantra-of-conviction",
+    "runes": [
+      {
+        "name": "Overawe",
+        "url":"/rune/monk/mantra-of-conviction/a"
+      },
+      {
+        "name": "Intimidation",
+        "url":"/rune/monk/mantra-of-conviction/e"
+      },
+      {
+        "name": "Dishearten",
+        "url":"/rune/monk/mantra-of-conviction/c"
+      },
+      {
+        "name": "Annihilation",
+        "url":"/rune/monk/mantra-of-conviction/d"
+      },
+      {
+        "name": "Submission",
+        "url":"/rune/monk/mantra-of-conviction/b"
+      }
+    ],
+    "className": "monk",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Epiphany",
+    "blizzID": "epiphany",
+    "url":"https://eu.diablo3.com/en/class/monk/active/epiphany",
+    "runes": [
+      {
+        "name": "Desert Shroud",
+        "url":"/rune/monk/epiphany/a"
+      },
+      {
+        "name": "Ascendance",
+        "url":"/rune/monk/epiphany/e"
+      },
+      {
+        "name": "Soothing Mist",
+        "url":"/rune/monk/epiphany/b"
+      },
+      {
+        "name": "Insight",
+        "url":"/rune/monk/epiphany/c"
+      },
+      {
+        "name": "Inner Fire",
+        "url":"/rune/monk/epiphany/d"
+      }
+    ],
+    "className": "monk",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Resolve",
+    "blizzID": "resolve",
+    "url":"https://eu.diablo3.com/en/class/monk/passive/resolve",
+    "runes": [
+
+    ],
+    "className": "monk",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Fleet Footed",
+    "blizzID": "fleet-footed",
+    "url":"https://eu.diablo3.com/en/class/monk/passive/fleet-footed",
+    "runes": [
+
+    ],
+    "className": "monk",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Exalted Soul",
+    "blizzID": "exalted-soul",
+    "url":"https://eu.diablo3.com/en/class/monk/passive/exalted-soul",
+    "runes": [
+
+    ],
+    "className": "monk",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Transcendence",
+    "blizzID": "transcendence",
+    "url":"https://eu.diablo3.com/en/class/monk/passive/transcendence",
+    "runes": [
+
+    ],
+    "className": "monk",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Chant of Resonance",
+    "blizzID": "chant-of-resonance",
+    "url":"https://eu.diablo3.com/en/class/monk/passive/chant-of-resonance",
+    "runes": [
+
+    ],
+    "className": "monk",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Seize the Initiative",
+    "blizzID": "seize-the-initiative",
+    "url":"https://eu.diablo3.com/en/class/monk/passive/seize-the-initiative",
+    "runes": [
+
+    ],
+    "className": "monk",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "The Guardian's Path",
+    "blizzID": "the-guardians-path",
+    "url":"https://eu.diablo3.com/en/class/monk/passive/the-guardians-path",
+    "runes": [
+
+    ],
+    "className": "monk",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Sixth Sense",
+    "blizzID": "sixth-sense",
+    "url":"https://eu.diablo3.com/en/class/monk/passive/sixth-sense",
+    "runes": [
+
+    ],
+    "className": "monk",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Determination",
+    "blizzID": "determination",
+    "url":"https://eu.diablo3.com/en/class/monk/passive/determination",
+    "runes": [
+
+    ],
+    "className": "monk",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Relentless Assault",
+    "blizzID": "relentless-assault",
+    "url":"https://eu.diablo3.com/en/class/monk/passive/relentless-assault",
+    "runes": [
+
+    ],
+    "className": "monk",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Beacon of Ytar",
+    "blizzID": "beacon-of-ytar",
+    "url":"https://eu.diablo3.com/en/class/monk/passive/beacon-of-ytar",
+    "runes": [
+
+    ],
+    "className": "monk",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Alacrity",
+    "blizzID": "alacrity",
+    "url":"https://eu.diablo3.com/en/class/monk/passive/alacrity",
+    "runes": [
+
+    ],
+    "className": "monk",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Harmony",
+    "blizzID": "harmony",
+    "url":"https://eu.diablo3.com/en/class/monk/passive/harmony",
+    "runes": [
+
+    ],
+    "className": "monk",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Combination Strike",
+    "blizzID": "combination-strike",
+    "url":"https://eu.diablo3.com/en/class/monk/passive/combination-strike",
+    "runes": [
+
+    ],
+    "className": "monk",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Near Death Experience",
+    "blizzID": "near-death-experience",
+    "url":"https://eu.diablo3.com/en/class/monk/passive/near-death-experience",
+    "runes": [
+
+    ],
+    "className": "monk",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Unity",
+    "blizzID": "unity",
+    "url":"https://eu.diablo3.com/en/class/monk/passive/unity",
+    "runes": [
+
+    ],
+    "className": "monk",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Momentum",
+    "blizzID": "momentum",
+    "url":"https://eu.diablo3.com/en/class/monk/passive/momentum",
+    "runes": [
+
+    ],
+    "className": "monk",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Mythic Rhythm",
+    "blizzID": "mythic-rhythm",
+    "url":"https://eu.diablo3.com/en/class/monk/passive/mythic-rhythm",
+    "runes": [
+
+    ],
+    "className": "monk",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Bone Spikes",
+    "blizzID": "bone-spikes",
+    "url":"https://eu.diablo3.com/en/class/necromancer/active/bone-spikes",
+    "runes": [
+      {
+        "name": "Sudden Impact",
+        "url":"/rune/necromancer/bone-spikes/a"
+      },
+      {
+        "name": "Bone Pillars",
+        "url":"/rune/necromancer/bone-spikes/c"
+      },
+      {
+        "name": "Frost Spikes",
+        "url":"/rune/necromancer/bone-spikes/d"
+      },
+      {
+        "name": "Path of Bones",
+        "url":"/rune/necromancer/bone-spikes/b"
+      },
+      {
+        "name": "Blood Spikes",
+        "url":"/rune/necromancer/bone-spikes/e"
+      }
+    ],
+    "className": "necromancer",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Bone Spear",
+    "blizzID": "bone-spear",
+    "url":"https://eu.diablo3.com/en/class/necromancer/active/bone-spear",
+    "runes": [
+      {
+        "name": "Blighted Marrow",
+        "url":"/rune/necromancer/bone-spear/c"
+      },
+      {
+        "name": "Teeth",
+        "url":"/rune/necromancer/bone-spear/e"
+      },
+      {
+        "name": "Crystallization",
+        "url":"/rune/necromancer/bone-spear/a"
+      },
+      {
+        "name": "Shatter",
+        "url":"/rune/necromancer/bone-spear/b"
+      },
+      {
+        "name": "Blood Spear",
+        "url":"/rune/necromancer/bone-spear/d"
+      }
+    ],
+    "className": "necromancer",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Grim Scythe",
+    "blizzID": "grim-scythe",
+    "url":"https://eu.diablo3.com/en/class/necromancer/active/grim-scythe",
+    "runes": [
+      {
+        "name": "Execution",
+        "url":"/rune/necromancer/grim-scythe/b"
+      },
+      {
+        "name": "Dual Scythes",
+        "url":"/rune/necromancer/grim-scythe/d"
+      },
+      {
+        "name": "Cursed Scythe",
+        "url":"/rune/necromancer/grim-scythe/e"
+      },
+      {
+        "name": "Frost Scythe",
+        "url":"/rune/necromancer/grim-scythe/c"
+      },
+      {
+        "name": "Blood Scythe",
+        "url":"/rune/necromancer/grim-scythe/a"
+      }
+    ],
+    "className": "necromancer",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Corpse Explosion",
+    "blizzID": "corpse-explosion",
+    "url":"https://eu.diablo3.com/en/class/necromancer/active/corpse-explosion",
+    "runes": [
+      {
+        "name": "Bloody Mess",
+        "url":"/rune/necromancer/corpse-explosion/d"
+      },
+      {
+        "name": "Close Quarters",
+        "url":"/rune/necromancer/corpse-explosion/c"
+      },
+      {
+        "name": "Shrapnel",
+        "url":"/rune/necromancer/corpse-explosion/a"
+      },
+      {
+        "name": "Dead Cold",
+        "url":"/rune/necromancer/corpse-explosion/e"
+      },
+      {
+        "name": "Final Embrace",
+        "url":"/rune/necromancer/corpse-explosion/b"
+      }
+    ],
+    "className": "necromancer",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Skeletal Mage",
+    "blizzID": "skeletal-mage",
+    "url":"https://eu.diablo3.com/en/class/necromancer/active/skeletal-mage",
+    "runes": [
+      {
+        "name": "Gift of Death",
+        "url":"/rune/necromancer/skeletal-mage/a"
+      },
+      {
+        "name": "Contamination",
+        "url":"/rune/necromancer/skeletal-mage/d"
+      },
+      {
+        "name": "Skeleton Archer",
+        "url":"/rune/necromancer/skeletal-mage/e"
+      },
+      {
+        "name": "Singularity",
+        "url":"/rune/necromancer/skeletal-mage/b"
+      },
+      {
+        "name": "Life Support",
+        "url":"/rune/necromancer/skeletal-mage/c"
+      }
+    ],
+    "className": "necromancer",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Corpse Lance",
+    "blizzID": "corpse-lance",
+    "url":"https://eu.diablo3.com/en/class/necromancer/active/corpse-lance",
+    "runes": [
+      {
+        "name": "Shredding Splinters",
+        "url":"/rune/necromancer/corpse-lance/e"
+      },
+      {
+        "name": "Brittle Touch",
+        "url":"/rune/necromancer/corpse-lance/b"
+      },
+      {
+        "name": "Ricochet",
+        "url":"/rune/necromancer/corpse-lance/a"
+      },
+      {
+        "name": "Visceral Impact",
+        "url":"/rune/necromancer/corpse-lance/d"
+      },
+      {
+        "name": "Blood Lance",
+        "url":"/rune/necromancer/corpse-lance/c"
+      }
+    ],
+    "className": "necromancer",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Command Skeletons",
+    "blizzID": "command-skeletons",
+    "url":"https://eu.diablo3.com/en/class/necromancer/active/command-skeletons",
+    "runes": [
+      {
+        "name": "Enforcer",
+        "url":"/rune/necromancer/command-skeletons/a"
+      },
+      {
+        "name": "Frenzy",
+        "url":"/rune/necromancer/command-skeletons/e"
+      },
+      {
+        "name": "Dark Mending",
+        "url":"/rune/necromancer/command-skeletons/b"
+      },
+      {
+        "name": "Freezing Grasp",
+        "url":"/rune/necromancer/command-skeletons/c"
+      },
+      {
+        "name": "Kill Command",
+        "url":"/rune/necromancer/command-skeletons/d"
+      }
+    ],
+    "className": "necromancer",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Siphon Blood",
+    "blizzID": "siphon-blood",
+    "url":"https://eu.diablo3.com/en/class/necromancer/active/siphon-blood",
+    "runes": [
+      {
+        "name": "Blood Sucker",
+        "url":"/rune/necromancer/siphon-blood/e"
+      },
+      {
+        "name": "Suppress",
+        "url":"/rune/necromancer/siphon-blood/a"
+      },
+      {
+        "name": "Power Shift",
+        "url":"/rune/necromancer/siphon-blood/d"
+      },
+      {
+        "name": "Purity of Essence",
+        "url":"/rune/necromancer/siphon-blood/b"
+      },
+      {
+        "name": "Drain Life",
+        "url":"/rune/necromancer/siphon-blood/c"
+      }
+    ],
+    "className": "necromancer",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Death Nova",
+    "blizzID": "death-nova",
+    "url":"https://eu.diablo3.com/en/class/necromancer/active/death-nova",
+    "runes": [
+      {
+        "name": "Unstable Compound",
+        "url":"/rune/necromancer/death-nova/e"
+      },
+      {
+        "name": "Tendril Nova",
+        "url":"/rune/necromancer/death-nova/a"
+      },
+      {
+        "name": "Blight",
+        "url":"/rune/necromancer/death-nova/d"
+      },
+      {
+        "name": "Bone Nova",
+        "url":"/rune/necromancer/death-nova/b"
+      },
+      {
+        "name": "Blood Nova",
+        "url":"/rune/necromancer/death-nova/c"
+      }
+    ],
+    "className": "necromancer",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Command Golem",
+    "blizzID": "command-golem",
+    "url":"https://eu.diablo3.com/en/class/necromancer/active/command-golem",
+    "runes": [
+      {
+        "name": "Flesh Golem",
+        "url":"/rune/necromancer/command-golem/d"
+      },
+      {
+        "name": "Ice Golem",
+        "url":"/rune/necromancer/command-golem/e"
+      },
+      {
+        "name": "Bone Golem",
+        "url":"/rune/necromancer/command-golem/a"
+      },
+      {
+        "name": "Decay Golem",
+        "url":"/rune/necromancer/command-golem/c"
+      },
+      {
+        "name": "Blood Golem",
+        "url":"/rune/necromancer/command-golem/b"
+      }
+    ],
+    "className": "necromancer",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Decrepify",
+    "blizzID": "decrepify",
+    "url":"https://eu.diablo3.com/en/class/necromancer/active/decrepify",
+    "runes": [
+      {
+        "name": "Dizzying Curse",
+        "url":"/rune/necromancer/decrepify/e"
+      },
+      {
+        "name": "Enfeeblement",
+        "url":"/rune/necromancer/decrepify/a"
+      },
+      {
+        "name": "Opportunist",
+        "url":"/rune/necromancer/decrepify/b"
+      },
+      {
+        "name": "Wither",
+        "url":"/rune/necromancer/decrepify/d"
+      },
+      {
+        "name": "Borrowed Time",
+        "url":"/rune/necromancer/decrepify/c"
+      }
+    ],
+    "className": "necromancer",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Devour",
+    "blizzID": "devour",
+    "url":"https://eu.diablo3.com/en/class/necromancer/active/devour",
+    "runes": [
+      {
+        "name": "Satiated",
+        "url":"/rune/necromancer/devour/e"
+      },
+      {
+        "name": "Ruthless",
+        "url":"/rune/necromancer/devour/b"
+      },
+      {
+        "name": "Devouring Aura",
+        "url":"/rune/necromancer/devour/d"
+      },
+      {
+        "name": "Voracious",
+        "url":"/rune/necromancer/devour/c"
+      },
+      {
+        "name": "Cannibalize ",
+        "url":"/rune/necromancer/devour/a"
+      }
+    ],
+    "className": "necromancer",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Leech",
+    "blizzID": "leech",
+    "url":"https://eu.diablo3.com/en/class/necromancer/active/leech",
+    "runes": [
+      {
+        "name": "Transmittable",
+        "url":"/rune/necromancer/leech/b"
+      },
+      {
+        "name": "Osmosis",
+        "url":"/rune/necromancer/leech/a"
+      },
+      {
+        "name": "Blood Flask",
+        "url":"/rune/necromancer/leech/e"
+      },
+      {
+        "name": "Sanguine End",
+        "url":"/rune/necromancer/leech/c"
+      },
+      {
+        "name": "Cursed Ground",
+        "url":"/rune/necromancer/leech/d"
+      }
+    ],
+    "className": "necromancer",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Bone Armor",
+    "blizzID": "bone-armor",
+    "url":"https://eu.diablo3.com/en/class/necromancer/active/bone-armor",
+    "runes": [
+      {
+        "name": "Vengeful Armaments",
+        "url":"/rune/necromancer/bone-armor/a"
+      },
+      {
+        "name": "Dislocation",
+        "url":"/rune/necromancer/bone-armor/c"
+      },
+      {
+        "name": "Limited Immunity",
+        "url":"/rune/necromancer/bone-armor/b"
+      },
+      {
+        "name": "Harvest of Anguish",
+        "url":"/rune/necromancer/bone-armor/e"
+      },
+      {
+        "name": "Thy Flesh Sustained",
+        "url":"/rune/necromancer/bone-armor/d"
+      }
+    ],
+    "className": "necromancer",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Army of the Dead",
+    "blizzID": "army-of-the-dead",
+    "url":"https://eu.diablo3.com/en/class/necromancer/active/army-of-the-dead",
+    "runes": [
+      {
+        "name": "Blighted Grasp",
+        "url":"/rune/necromancer/army-of-the-dead/a"
+      },
+      {
+        "name": "Death Valley",
+        "url":"/rune/necromancer/army-of-the-dead/d"
+      },
+      {
+        "name": "Unconventional Warfare",
+        "url":"/rune/necromancer/army-of-the-dead/c"
+      },
+      {
+        "name": "Frozen Army",
+        "url":"/rune/necromancer/army-of-the-dead/b"
+      },
+      {
+        "name": "Dead Storm",
+        "url":"/rune/necromancer/army-of-the-dead/e"
+      }
+    ],
+    "className": "necromancer",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Frailty",
+    "blizzID": "frailty",
+    "url":"https://eu.diablo3.com/en/class/necromancer/active/frailty",
+    "runes": [
+      {
+        "name": "Scent of Blood",
+        "url":"/rune/necromancer/frailty/d"
+      },
+      {
+        "name": "Volatile Death",
+        "url":"/rune/necromancer/frailty/c"
+      },
+      {
+        "name": "Aura of Frailty",
+        "url":"/rune/necromancer/frailty/e"
+      },
+      {
+        "name": "Harvest Essence",
+        "url":"/rune/necromancer/frailty/b"
+      },
+      {
+        "name": "Early Grave",
+        "url":"/rune/necromancer/frailty/a"
+      }
+    ],
+    "className": "necromancer",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Revive",
+    "blizzID": "revive",
+    "url":"https://eu.diablo3.com/en/class/necromancer/active/revive",
+    "runes": [
+      {
+        "name": "Personal Army",
+        "url":"/rune/necromancer/revive/c"
+      },
+      {
+        "name": "Horrific Return",
+        "url":"/rune/necromancer/revive/e"
+      },
+      {
+        "name": "Purgatory",
+        "url":"/rune/necromancer/revive/a"
+      },
+      {
+        "name": "Recklessness",
+        "url":"/rune/necromancer/revive/d"
+      },
+      {
+        "name": "Oblation",
+        "url":"/rune/necromancer/revive/b"
+      }
+    ],
+    "className": "necromancer",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Bone Spirit",
+    "blizzID": "bone-spirit",
+    "url":"https://eu.diablo3.com/en/class/necromancer/active/bone-spirit",
+    "runes": [
+      {
+        "name": "Astral Projection",
+        "url":"/rune/necromancer/bone-spirit/e"
+      },
+      {
+        "name": "Panic Attack",
+        "url":"/rune/necromancer/bone-spirit/b"
+      },
+      {
+        "name": "Poltergeist",
+        "url":"/rune/necromancer/bone-spirit/c"
+      },
+      {
+        "name": "Unfinished Business",
+        "url":"/rune/necromancer/bone-spirit/d"
+      },
+      {
+        "name": "Possession",
+        "url":"/rune/necromancer/bone-spirit/a"
+      }
+    ],
+    "className": "necromancer",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Blood Rush",
+    "blizzID": "blood-rush",
+    "url":"https://eu.diablo3.com/en/class/necromancer/active/blood-rush",
+    "runes": [
+      {
+        "name": "Potency",
+        "url":"/rune/necromancer/blood-rush/d"
+      },
+      {
+        "name": "Transfusion",
+        "url":"/rune/necromancer/blood-rush/a"
+      },
+      {
+        "name": "Molting",
+        "url":"/rune/necromancer/blood-rush/e"
+      },
+      {
+        "name": "Hemostasis",
+        "url":"/rune/necromancer/blood-rush/b"
+      },
+      {
+        "name": "Metabolism",
+        "url":"/rune/necromancer/blood-rush/c"
+      }
+    ],
+    "className": "necromancer",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Land of the Dead",
+    "blizzID": "land-of-the-dead",
+    "url":"https://eu.diablo3.com/en/class/necromancer/active/land-of-the-dead",
+    "runes": [
+      {
+        "name": "Frozen Lands",
+        "url":"/rune/necromancer/land-of-the-dead/b"
+      },
+      {
+        "name": "Plaguelands",
+        "url":"/rune/necromancer/land-of-the-dead/c"
+      },
+      {
+        "name": "Shallow Graves",
+        "url":"/rune/necromancer/land-of-the-dead/e"
+      },
+      {
+        "name": "Invigoration",
+        "url":"/rune/necromancer/land-of-the-dead/a"
+      },
+      {
+        "name": "Land of Plenty",
+        "url":"/rune/necromancer/land-of-the-dead/d"
+      }
+    ],
+    "className": "necromancer",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Simulacrum",
+    "blizzID": "simulacrum",
+    "url":"https://eu.diablo3.com/en/class/necromancer/active/simulacrum",
+    "runes": [
+      {
+        "name": "Cursed Form",
+        "url":"/rune/necromancer/simulacrum/b"
+      },
+      {
+        "name": "Reservoir",
+        "url":"/rune/necromancer/simulacrum/a"
+      },
+      {
+        "name": "Self Sacrifice",
+        "url":"/rune/necromancer/simulacrum/e"
+      },
+      {
+        "name": "Blood Debt",
+        "url":"/rune/necromancer/simulacrum/c"
+      },
+      {
+        "name": "Blood and Bone",
+        "url":"/rune/necromancer/simulacrum/d"
+      }
+    ],
+    "className": "necromancer",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Life from Death",
+    "blizzID": "life-from-death",
+    "url":"https://eu.diablo3.com/en/class/necromancer/passive/life-from-death",
+    "runes": [
+
+    ],
+    "className": "necromancer",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Fueled by Death",
+    "blizzID": "fueled-by-death",
+    "url":"https://eu.diablo3.com/en/class/necromancer/passive/fueled-by-death",
+    "runes": [
+
+    ],
+    "className": "necromancer",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Stand Alone",
+    "blizzID": "stand-alone",
+    "url":"https://eu.diablo3.com/en/class/necromancer/passive/stand-alone",
+    "runes": [
+
+    ],
+    "className": "necromancer",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Bone Prison",
+    "blizzID": "bone-prison",
+    "url":"https://eu.diablo3.com/en/class/necromancer/passive/bone-prison",
+    "runes": [
+
+    ],
+    "className": "necromancer",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Swift Harvesting",
+    "blizzID": "swift-harvesting",
+    "url":"https://eu.diablo3.com/en/class/necromancer/passive/swift-harvesting",
+    "runes": [
+
+    ],
+    "className": "necromancer",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Commander of the Risen Dead",
+    "blizzID": "commander-of-the-risen-dead",
+    "url":"https://eu.diablo3.com/en/class/necromancer/passive/commander-of-the-risen-dead",
+    "runes": [
+
+    ],
+    "className": "necromancer",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Extended Servitude",
+    "blizzID": "extended-servitude",
+    "url":"https://eu.diablo3.com/en/class/necromancer/passive/extended-servitude",
+    "runes": [
+
+    ],
+    "className": "necromancer",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Rigor Mortis",
+    "blizzID": "rigor-mortis",
+    "url":"https://eu.diablo3.com/en/class/necromancer/passive/rigor-mortis",
+    "runes": [
+
+    ],
+    "className": "necromancer",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Overwhelming Essence",
+    "blizzID": "overwhelming-essence",
+    "url":"https://eu.diablo3.com/en/class/necromancer/passive/overwhelming-essence",
+    "runes": [
+
+    ],
+    "className": "necromancer",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Dark Reaping",
+    "blizzID": "dark-reaping",
+    "url":"https://eu.diablo3.com/en/class/necromancer/passive/dark-reaping",
+    "runes": [
+
+    ],
+    "className": "necromancer",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Spreading Malediction",
+    "blizzID": "spreading-malediction",
+    "url":"https://eu.diablo3.com/en/class/necromancer/passive/spreading-malediction",
+    "runes": [
+
+    ],
+    "className": "necromancer",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Eternal Torment",
+    "blizzID": "eternal-torment",
+    "url":"https://eu.diablo3.com/en/class/necromancer/passive/eternal-torment",
+    "runes": [
+
+    ],
+    "className": "necromancer",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Final Service",
+    "blizzID": "final-service",
+    "url":"https://eu.diablo3.com/en/class/necromancer/passive/final-service",
+    "runes": [
+
+    ],
+    "className": "necromancer",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Grisly Tribute",
+    "blizzID": "grisly-tribute",
+    "url":"https://eu.diablo3.com/en/class/necromancer/passive/grisly-tribute",
+    "runes": [
+
+    ],
+    "className": "necromancer",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Draw Life",
+    "blizzID": "draw-life",
+    "url":"https://eu.diablo3.com/en/class/necromancer/passive/draw-life",
+    "runes": [
+
+    ],
+    "className": "necromancer",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Serration",
+    "blizzID": "serration",
+    "url":"https://eu.diablo3.com/en/class/necromancer/passive/serration",
+    "runes": [
+
+    ],
+    "className": "necromancer",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Aberrant Animator",
+    "blizzID": "aberrant-animator",
+    "url":"https://eu.diablo3.com/en/class/necromancer/passive/aberrant-animator",
+    "runes": [
+
+    ],
+    "className": "necromancer",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Blood for Blood",
+    "blizzID": "blood-for-blood",
+    "url":"https://eu.diablo3.com/en/class/necromancer/passive/blood-for-blood",
+    "runes": [
+
+    ],
+    "className": "necromancer",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Blood is Power",
+    "blizzID": "blood-is-power",
+    "url":"https://eu.diablo3.com/en/class/necromancer/passive/blood-is-power",
+    "runes": [
+
+    ],
+    "className": "necromancer",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Rathma's Shield",
+    "blizzID": "rathmas-shield",
+    "url":"https://eu.diablo3.com/en/class/necromancer/passive/rathmas-shield",
+    "runes": [
+
+    ],
+    "className": "necromancer",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Poison Dart",
+    "blizzID": "poison-dart",
+    "url":"https://eu.diablo3.com/en/class/witch-doctor/active/poison-dart",
+    "runes": [
+      {
+        "name": "Splinters",
+        "url":"/rune/witch-doctor/poison-dart/b"
+      },
+      {
+        "name": "Numbing Dart",
+        "url":"/rune/witch-doctor/poison-dart/c"
+      },
+      {
+        "name": "Spined Dart",
+        "url":"/rune/witch-doctor/poison-dart/d"
+      },
+      {
+        "name": "Flaming Dart",
+        "url":"/rune/witch-doctor/poison-dart/a"
+      },
+      {
+        "name": "Snake to the Face",
+        "url":"/rune/witch-doctor/poison-dart/e"
+      }
+    ],
+    "className": "witch-doctor",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Grasp of the Dead",
+    "blizzID": "grasp-of-the-dead",
+    "url":"https://eu.diablo3.com/en/class/witch-doctor/active/grasp-of-the-dead",
+    "runes": [
+      {
+        "name": "Unbreakable Grasp",
+        "url":"/rune/witch-doctor/grasp-of-the-dead/c"
+      },
+      {
+        "name": "Groping Eels",
+        "url":"/rune/witch-doctor/grasp-of-the-dead/a"
+      },
+      {
+        "name": "Death Is Life",
+        "url":"/rune/witch-doctor/grasp-of-the-dead/e"
+      },
+      {
+        "name": "Desperate Grasp",
+        "url":"/rune/witch-doctor/grasp-of-the-dead/d"
+      },
+      {
+        "name": "Rain of Corpses",
+        "url":"/rune/witch-doctor/grasp-of-the-dead/b"
+      }
+    ],
+    "className": "witch-doctor",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Corpse Spiders",
+    "blizzID": "corpse-spiders",
+    "url":"https://eu.diablo3.com/en/class/witch-doctor/active/corpse-spiders",
+    "runes": [
+      {
+        "name": "Leaping Spiders",
+        "url":"/rune/witch-doctor/corpse-spiders/c"
+      },
+      {
+        "name": "Spider Queen",
+        "url":"/rune/witch-doctor/corpse-spiders/b"
+      },
+      {
+        "name": "Widowmakers",
+        "url":"/rune/witch-doctor/corpse-spiders/d"
+      },
+      {
+        "name": "Medusa Spiders",
+        "url":"/rune/witch-doctor/corpse-spiders/e"
+      },
+      {
+        "name": "Blazing Spiders",
+        "url":"/rune/witch-doctor/corpse-spiders/a"
+      }
+    ],
+    "className": "witch-doctor",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Summon Zombie Dogs",
+    "blizzID": "summon-zombie-dogs",
+    "url":"https://eu.diablo3.com/en/class/witch-doctor/active/summon-zombie-dogs",
+    "runes": [
+      {
+        "name": "Rabid Dogs",
+        "url":"/rune/witch-doctor/summon-zombie-dogs/c"
+      },
+      {
+        "name": "Chilled to the Bone",
+        "url":"/rune/witch-doctor/summon-zombie-dogs/d"
+      },
+      {
+        "name": "Life Link",
+        "url":"/rune/witch-doctor/summon-zombie-dogs/b"
+      },
+      {
+        "name": "Burning Dogs",
+        "url":"/rune/witch-doctor/summon-zombie-dogs/a"
+      },
+      {
+        "name": "Leeching Beasts",
+        "url":"/rune/witch-doctor/summon-zombie-dogs/e"
+      }
+    ],
+    "className": "witch-doctor",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Firebats",
+    "blizzID": "firebats",
+    "url":"https://eu.diablo3.com/en/class/witch-doctor/active/firebats",
+    "runes": [
+      {
+        "name": "Dire Bats",
+        "url":"/rune/witch-doctor/firebats/a"
+      },
+      {
+        "name": "Vampire Bats",
+        "url":"/rune/witch-doctor/firebats/d"
+      },
+      {
+        "name": "Plague Bats",
+        "url":"/rune/witch-doctor/firebats/c"
+      },
+      {
+        "name": "Hungry Bats",
+        "url":"/rune/witch-doctor/firebats/b"
+      },
+      {
+        "name": "Cloud of Bats",
+        "url":"/rune/witch-doctor/firebats/e"
+      }
+    ],
+    "className": "witch-doctor",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Horrify",
+    "blizzID": "horrify",
+    "url":"https://eu.diablo3.com/en/class/witch-doctor/active/horrify",
+    "runes": [
+      {
+        "name": "Phobia",
+        "url":"/rune/witch-doctor/horrify/c"
+      },
+      {
+        "name": "Stalker",
+        "url":"/rune/witch-doctor/horrify/e"
+      },
+      {
+        "name": "Face of Death",
+        "url":"/rune/witch-doctor/horrify/b"
+      },
+      {
+        "name": "Frightening Aspect",
+        "url":"/rune/witch-doctor/horrify/a"
+      },
+      {
+        "name": "Ruthless Terror",
+        "url":"/rune/witch-doctor/horrify/d"
+      }
+    ],
+    "className": "witch-doctor",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Soul Harvest",
+    "blizzID": "soul-harvest",
+    "url":"https://eu.diablo3.com/en/class/witch-doctor/active/soul-harvest",
+    "runes": [
+      {
+        "name": "Swallow Your Soul",
+        "url":"/rune/witch-doctor/soul-harvest/d"
+      },
+      {
+        "name": "Siphon",
+        "url":"/rune/witch-doctor/soul-harvest/a"
+      },
+      {
+        "name": "Languish",
+        "url":"/rune/witch-doctor/soul-harvest/c"
+      },
+      {
+        "name": "Soul to Waste",
+        "url":"/rune/witch-doctor/soul-harvest/b"
+      },
+      {
+        "name": "Vengeful Spirit",
+        "url":"/rune/witch-doctor/soul-harvest/e"
+      }
+    ],
+    "className": "witch-doctor",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Plague of Toads",
+    "blizzID": "plague-of-toads",
+    "url":"https://eu.diablo3.com/en/class/witch-doctor/active/plague-of-toads",
+    "runes": [
+      {
+        "name": "Explosive Toads",
+        "url":"/rune/witch-doctor/plague-of-toads/a"
+      },
+      {
+        "name": "Piercing Toads",
+        "url":"/rune/witch-doctor/plague-of-toads/c"
+      },
+      {
+        "name": "Rain of Toads",
+        "url":"/rune/witch-doctor/plague-of-toads/b"
+      },
+      {
+        "name": "Addling Toads",
+        "url":"/rune/witch-doctor/plague-of-toads/e"
+      },
+      {
+        "name": "Toad Affinity",
+        "url":"/rune/witch-doctor/plague-of-toads/d"
+      }
+    ],
+    "className": "witch-doctor",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Haunt",
+    "blizzID": "haunt",
+    "url":"https://eu.diablo3.com/en/class/witch-doctor/active/haunt",
+    "runes": [
+      {
+        "name": "Consuming Spirit",
+        "url":"/rune/witch-doctor/haunt/a"
+      },
+      {
+        "name": "Resentful Spirits",
+        "url":"/rune/witch-doctor/haunt/e"
+      },
+      {
+        "name": "Lingering Spirit",
+        "url":"/rune/witch-doctor/haunt/b"
+      },
+      {
+        "name": "Poisoned Spirit",
+        "url":"/rune/witch-doctor/haunt/c"
+      },
+      {
+        "name": "Draining Spirit",
+        "url":"/rune/witch-doctor/haunt/d"
+      }
+    ],
+    "className": "witch-doctor",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Sacrifice",
+    "blizzID": "sacrifice",
+    "url":"https://eu.diablo3.com/en/class/witch-doctor/active/sacrifice",
+    "runes": [
+      {
+        "name": "Black Blood",
+        "url":"/rune/witch-doctor/sacrifice/c"
+      },
+      {
+        "name": "Next of Kin",
+        "url":"/rune/witch-doctor/sacrifice/e"
+      },
+      {
+        "name": "Pride",
+        "url":"/rune/witch-doctor/sacrifice/d"
+      },
+      {
+        "name": "For the Master",
+        "url":"/rune/witch-doctor/sacrifice/b"
+      },
+      {
+        "name": "Provoke the Pack",
+        "url":"/rune/witch-doctor/sacrifice/a"
+      }
+    ],
+    "className": "witch-doctor",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Zombie Charger",
+    "blizzID": "zombie-charger",
+    "url":"https://eu.diablo3.com/en/class/witch-doctor/active/zombie-charger",
+    "runes": [
+      {
+        "name": "Pile On",
+        "url":"/rune/witch-doctor/zombie-charger/c"
+      },
+      {
+        "name": "Undeath",
+        "url":"/rune/witch-doctor/zombie-charger/d"
+      },
+      {
+        "name": "Lumbering Cold",
+        "url":"/rune/witch-doctor/zombie-charger/b"
+      },
+      {
+        "name": "Explosive Beast",
+        "url":"/rune/witch-doctor/zombie-charger/e"
+      },
+      {
+        "name": "Zombie Bears",
+        "url":"/rune/witch-doctor/zombie-charger/a"
+      }
+    ],
+    "className": "witch-doctor",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Spirit Walk",
+    "blizzID": "spirit-walk",
+    "url":"https://eu.diablo3.com/en/class/witch-doctor/active/spirit-walk",
+    "runes": [
+      {
+        "name": "Jaunt",
+        "url":"/rune/witch-doctor/spirit-walk/b"
+      },
+      {
+        "name": "Honored Guest",
+        "url":"/rune/witch-doctor/spirit-walk/d"
+      },
+      {
+        "name": "Umbral Shock",
+        "url":"/rune/witch-doctor/spirit-walk/c"
+      },
+      {
+        "name": "Severance",
+        "url":"/rune/witch-doctor/spirit-walk/a"
+      },
+      {
+        "name": "Healing Journey",
+        "url":"/rune/witch-doctor/spirit-walk/e"
+      }
+    ],
+    "className": "witch-doctor",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Spirit Barrage",
+    "blizzID": "spirit-barrage",
+    "url":"https://eu.diablo3.com/en/class/witch-doctor/active/spirit-barrage",
+    "runes": [
+      {
+        "name": "The Spirit Is Willing",
+        "url":"/rune/witch-doctor/spirit-barrage/d"
+      },
+      {
+        "name": "Well of Souls",
+        "url":"/rune/witch-doctor/spirit-barrage/b"
+      },
+      {
+        "name": "Phantasm",
+        "url":"/rune/witch-doctor/spirit-barrage/c"
+      },
+      {
+        "name": "Phlebotomize",
+        "url":"/rune/witch-doctor/spirit-barrage/a"
+      },
+      {
+        "name": "Manitou",
+        "url":"/rune/witch-doctor/spirit-barrage/e"
+      }
+    ],
+    "className": "witch-doctor",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Gargantuan",
+    "blizzID": "gargantuan",
+    "url":"https://eu.diablo3.com/en/class/witch-doctor/active/gargantuan",
+    "runes": [
+      {
+        "name": "Humongoid",
+        "url":"/rune/witch-doctor/gargantuan/b"
+      },
+      {
+        "name": "Restless Giant",
+        "url":"/rune/witch-doctor/gargantuan/a"
+      },
+      {
+        "name": "Wrathful Protector",
+        "url":"/rune/witch-doctor/gargantuan/d"
+      },
+      {
+        "name": "Big Stinker",
+        "url":"/rune/witch-doctor/gargantuan/c"
+      },
+      {
+        "name": "Bruiser",
+        "url":"/rune/witch-doctor/gargantuan/e"
+      }
+    ],
+    "className": "witch-doctor",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Locust Swarm",
+    "blizzID": "locust-swarm",
+    "url":"https://eu.diablo3.com/en/class/witch-doctor/active/locust-swarm",
+    "runes": [
+      {
+        "name": "Pestilence",
+        "url":"/rune/witch-doctor/locust-swarm/b"
+      },
+      {
+        "name": "Devouring Swarm",
+        "url":"/rune/witch-doctor/locust-swarm/d"
+      },
+      {
+        "name": "Cloud of Insects",
+        "url":"/rune/witch-doctor/locust-swarm/c"
+      },
+      {
+        "name": "Diseased Swarm",
+        "url":"/rune/witch-doctor/locust-swarm/e"
+      },
+      {
+        "name": "Searing Locusts",
+        "url":"/rune/witch-doctor/locust-swarm/a"
+      }
+    ],
+    "className": "witch-doctor",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Firebomb",
+    "blizzID": "firebomb",
+    "url":"https://eu.diablo3.com/en/class/witch-doctor/active/firebomb",
+    "runes": [
+      {
+        "name": "Flash Fire",
+        "url":"/rune/witch-doctor/firebomb/e"
+      },
+      {
+        "name": "Roll the Bones",
+        "url":"/rune/witch-doctor/firebomb/b"
+      },
+      {
+        "name": "Fire Pit",
+        "url":"/rune/witch-doctor/firebomb/c"
+      },
+      {
+        "name": "Pyrogeist",
+        "url":"/rune/witch-doctor/firebomb/d"
+      },
+      {
+        "name": "Ghost Bomb",
+        "url":"/rune/witch-doctor/firebomb/a"
+      }
+    ],
+    "className": "witch-doctor",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Hex",
+    "blizzID": "hex",
+    "url":"https://eu.diablo3.com/en/class/witch-doctor/active/hex",
+    "runes": [
+      {
+        "name": "Hedge Magic",
+        "url":"/rune/witch-doctor/hex/d"
+      },
+      {
+        "name": "Jinx",
+        "url":"/rune/witch-doctor/hex/e"
+      },
+      {
+        "name": "Angry Chicken",
+        "url":"/rune/witch-doctor/hex/b"
+      },
+      {
+        "name": "Toad of Hugeness",
+        "url":"/rune/witch-doctor/hex/a"
+      },
+      {
+        "name": "Unstable Form",
+        "url":"/rune/witch-doctor/hex/c"
+      }
+    ],
+    "className": "witch-doctor",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Acid Cloud",
+    "blizzID": "acid-cloud",
+    "url":"https://eu.diablo3.com/en/class/witch-doctor/active/acid-cloud",
+    "runes": [
+      {
+        "name": "Acid Rain",
+        "url":"/rune/witch-doctor/acid-cloud/b"
+      },
+      {
+        "name": "Lob Blob Bomb",
+        "url":"/rune/witch-doctor/acid-cloud/c"
+      },
+      {
+        "name": "Slow Burn",
+        "url":"/rune/witch-doctor/acid-cloud/d"
+      },
+      {
+        "name": "Kiss of Death",
+        "url":"/rune/witch-doctor/acid-cloud/e"
+      },
+      {
+        "name": "Corpse Bomb",
+        "url":"/rune/witch-doctor/acid-cloud/a"
+      }
+    ],
+    "className": "witch-doctor",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Mass Confusion",
+    "blizzID": "mass-confusion",
+    "url":"https://eu.diablo3.com/en/class/witch-doctor/active/mass-confusion",
+    "runes": [
+      {
+        "name": "Unstable Realm",
+        "url":"/rune/witch-doctor/mass-confusion/d"
+      },
+      {
+        "name": "Devolution",
+        "url":"/rune/witch-doctor/mass-confusion/e"
+      },
+      {
+        "name": "Mass Hysteria",
+        "url":"/rune/witch-doctor/mass-confusion/b"
+      },
+      {
+        "name": "Paranoia",
+        "url":"/rune/witch-doctor/mass-confusion/a"
+      },
+      {
+        "name": "Mass Hallucination",
+        "url":"/rune/witch-doctor/mass-confusion/c"
+      }
+    ],
+    "className": "witch-doctor",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Big Bad Voodoo",
+    "blizzID": "big-bad-voodoo",
+    "url":"https://eu.diablo3.com/en/class/witch-doctor/active/big-bad-voodoo",
+    "runes": [
+      {
+        "name": "Jungle Drums",
+        "url":"/rune/witch-doctor/big-bad-voodoo/b"
+      },
+      {
+        "name": "Rain Dance",
+        "url":"/rune/witch-doctor/big-bad-voodoo/d"
+      },
+      {
+        "name": "Slam Dance",
+        "url":"/rune/witch-doctor/big-bad-voodoo/a"
+      },
+      {
+        "name": "Ghost Trance",
+        "url":"/rune/witch-doctor/big-bad-voodoo/c"
+      },
+      {
+        "name": "Boogie Man",
+        "url":"/rune/witch-doctor/big-bad-voodoo/e"
+      }
+    ],
+    "className": "witch-doctor",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Wall of Death",
+    "blizzID": "wall-of-death",
+    "url":"https://eu.diablo3.com/en/class/witch-doctor/active/wall-of-death",
+    "runes": [
+      {
+        "name": "Ring of Poison",
+        "url":"/rune/witch-doctor/wall-of-death/b"
+      },
+      {
+        "name": "Wall of Zombies",
+        "url":"/rune/witch-doctor/wall-of-death/d"
+      },
+      {
+        "name": "Surrounded by Death",
+        "url":"/rune/witch-doctor/wall-of-death/a"
+      },
+      {
+        "name": "Fire Wall",
+        "url":"/rune/witch-doctor/wall-of-death/e"
+      },
+      {
+        "name": "Communing with Spirits",
+        "url":"/rune/witch-doctor/wall-of-death/c"
+      }
+    ],
+    "className": "witch-doctor",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Fetish Army",
+    "blizzID": "fetish-army",
+    "url":"https://eu.diablo3.com/en/class/witch-doctor/active/fetish-army",
+    "runes": [
+      {
+        "name": "Fetish Ambush",
+        "url":"/rune/witch-doctor/fetish-army/a"
+      },
+      {
+        "name": "Devoted Following",
+        "url":"/rune/witch-doctor/fetish-army/d"
+      },
+      {
+        "name": "Legion of Daggers",
+        "url":"/rune/witch-doctor/fetish-army/b"
+      },
+      {
+        "name": "Tiki Torchers",
+        "url":"/rune/witch-doctor/fetish-army/c"
+      },
+      {
+        "name": "Head Hunters",
+        "url":"/rune/witch-doctor/fetish-army/e"
+      }
+    ],
+    "className": "witch-doctor",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Piranhas",
+    "blizzID": "piranhas",
+    "url":"https://eu.diablo3.com/en/class/witch-doctor/active/piranhas",
+    "runes": [
+      {
+        "name": "Bogadile",
+        "url":"/rune/witch-doctor/piranhas/a"
+      },
+      {
+        "name": "Zombie Piranhas",
+        "url":"/rune/witch-doctor/piranhas/b"
+      },
+      {
+        "name": "Piranhado",
+        "url":"/rune/witch-doctor/piranhas/c"
+      },
+      {
+        "name": "Wave of Mutilation",
+        "url":"/rune/witch-doctor/piranhas/d"
+      },
+      {
+        "name": "Frozen Piranhas",
+        "url":"/rune/witch-doctor/piranhas/e"
+      }
+    ],
+    "className": "witch-doctor",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Jungle Fortitude",
+    "blizzID": "jungle-fortitude",
+    "url":"https://eu.diablo3.com/en/class/witch-doctor/passive/jungle-fortitude",
+    "runes": [
+
+    ],
+    "className": "witch-doctor",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Circle of Life",
+    "blizzID": "circle-of-life",
+    "url":"https://eu.diablo3.com/en/class/witch-doctor/passive/circle-of-life",
+    "runes": [
+
+    ],
+    "className": "witch-doctor",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Spiritual Attunement",
+    "blizzID": "spiritual-attunement",
+    "url":"https://eu.diablo3.com/en/class/witch-doctor/passive/spiritual-attunement",
+    "runes": [
+
+    ],
+    "className": "witch-doctor",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Gruesome Feast",
+    "blizzID": "gruesome-feast",
+    "url":"https://eu.diablo3.com/en/class/witch-doctor/passive/gruesome-feast",
+    "runes": [
+
+    ],
+    "className": "witch-doctor",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Blood Ritual",
+    "blizzID": "blood-ritual",
+    "url":"https://eu.diablo3.com/en/class/witch-doctor/passive/blood-ritual",
+    "runes": [
+
+    ],
+    "className": "witch-doctor",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Bad Medicine",
+    "blizzID": "bad-medicine",
+    "url":"https://eu.diablo3.com/en/class/witch-doctor/passive/bad-medicine",
+    "runes": [
+
+    ],
+    "className": "witch-doctor",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Zombie Handler",
+    "blizzID": "zombie-handler",
+    "url":"https://eu.diablo3.com/en/class/witch-doctor/passive/zombie-handler",
+    "runes": [
+
+    ],
+    "className": "witch-doctor",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Pierce the Veil",
+    "blizzID": "pierce-the-veil",
+    "url":"https://eu.diablo3.com/en/class/witch-doctor/passive/pierce-the-veil",
+    "runes": [
+
+    ],
+    "className": "witch-doctor",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Spirit Vessel",
+    "blizzID": "spirit-vessel",
+    "url":"https://eu.diablo3.com/en/class/witch-doctor/passive/spirit-vessel",
+    "runes": [
+
+    ],
+    "className": "witch-doctor",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Fetish Sycophants",
+    "blizzID": "fetish-sycophants",
+    "url":"https://eu.diablo3.com/en/class/witch-doctor/passive/fetish-sycophants",
+    "runes": [
+
+    ],
+    "className": "witch-doctor",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Rush of Essence",
+    "blizzID": "rush-of-essence",
+    "url":"https://eu.diablo3.com/en/class/witch-doctor/passive/rush-of-essence",
+    "runes": [
+
+    ],
+    "className": "witch-doctor",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Vision Quest",
+    "blizzID": "vision-quest",
+    "url":"https://eu.diablo3.com/en/class/witch-doctor/passive/vision-quest",
+    "runes": [
+
+    ],
+    "className": "witch-doctor",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Fierce Loyalty",
+    "blizzID": "fierce-loyalty",
+    "url":"https://eu.diablo3.com/en/class/witch-doctor/passive/fierce-loyalty",
+    "runes": [
+
+    ],
+    "className": "witch-doctor",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Grave Injustice",
+    "blizzID": "grave-injustice",
+    "url":"https://eu.diablo3.com/en/class/witch-doctor/passive/grave-injustice",
+    "runes": [
+
+    ],
+    "className": "witch-doctor",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Tribal Rites",
+    "blizzID": "tribal-rites",
+    "url":"https://eu.diablo3.com/en/class/witch-doctor/passive/tribal-rites",
+    "runes": [
+
+    ],
+    "className": "witch-doctor",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Confidence Ritual",
+    "blizzID": "confidence-ritual",
+    "url":"https://eu.diablo3.com/en/class/witch-doctor/passive/confidence-ritual",
+    "runes": [
+
+    ],
+    "className": "witch-doctor",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Creeping Death",
+    "blizzID": "creeping-death",
+    "url":"https://eu.diablo3.com/en/class/witch-doctor/passive/creeping-death",
+    "runes": [
+
+    ],
+    "className": "witch-doctor",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Swampland Attunement",
+    "blizzID": "swampland-attunement",
+    "url":"https://eu.diablo3.com/en/class/witch-doctor/passive/swampland-attunement",
+    "runes": [
+
+    ],
+    "className": "witch-doctor",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Midnight Feast",
+    "blizzID": "midnight-feast",
+    "url":"https://eu.diablo3.com/en/class/witch-doctor/passive/midnight-feast",
+    "runes": [
+
+    ],
+    "className": "witch-doctor",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Magic Missile",
+    "blizzID": "magic-missile",
+    "url":"https://eu.diablo3.com/en/class/wizard/active/magic-missile",
+    "runes": [
+      {
+        "name": "Charged Blast",
+        "url":"/rune/wizard/magic-missile/a"
+      },
+      {
+        "name": "Glacial Spike",
+        "url":"/rune/wizard/magic-missile/d"
+      },
+      {
+        "name": "Split",
+        "url":"/rune/wizard/magic-missile/b"
+      },
+      {
+        "name": "Seeker",
+        "url":"/rune/wizard/magic-missile/e"
+      },
+      {
+        "name": "Conflagrate",
+        "url":"/rune/wizard/magic-missile/c"
+      }
+    ],
+    "className": "wizard",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Ray of Frost",
+    "blizzID": "ray-of-frost",
+    "url":"https://eu.diablo3.com/en/class/wizard/active/ray-of-frost",
+    "runes": [
+      {
+        "name": "Cold Blood",
+        "url":"/rune/wizard/ray-of-frost/d"
+      },
+      {
+        "name": "Numb",
+        "url":"/rune/wizard/ray-of-frost/c"
+      },
+      {
+        "name": "Black Ice",
+        "url":"/rune/wizard/ray-of-frost/e"
+      },
+      {
+        "name": "Sleet Storm",
+        "url":"/rune/wizard/ray-of-frost/b"
+      },
+      {
+        "name": "Snow Blast",
+        "url":"/rune/wizard/ray-of-frost/a"
+      }
+    ],
+    "className": "wizard",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Shock Pulse",
+    "blizzID": "shock-pulse",
+    "url":"https://eu.diablo3.com/en/class/wizard/active/shock-pulse",
+    "runes": [
+      {
+        "name": "Explosive Bolts",
+        "url":"/rune/wizard/shock-pulse/e"
+      },
+      {
+        "name": "Fire Bolts",
+        "url":"/rune/wizard/shock-pulse/a"
+      },
+      {
+        "name": "Piercing Orb",
+        "url":"/rune/wizard/shock-pulse/c"
+      },
+      {
+        "name": "Power Affinity",
+        "url":"/rune/wizard/shock-pulse/d"
+      },
+      {
+        "name": "Living Lightning",
+        "url":"/rune/wizard/shock-pulse/b"
+      }
+    ],
+    "className": "wizard",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Frost Nova",
+    "blizzID": "frost-nova",
+    "url":"https://eu.diablo3.com/en/class/wizard/active/frost-nova",
+    "runes": [
+      {
+        "name": "Shatter",
+        "url":"/rune/wizard/frost-nova/b"
+      },
+      {
+        "name": "Cold Snap",
+        "url":"/rune/wizard/frost-nova/d"
+      },
+      {
+        "name": "Frozen Mist",
+        "url":"/rune/wizard/frost-nova/c"
+      },
+      {
+        "name": "Deep Freeze",
+        "url":"/rune/wizard/frost-nova/e"
+      },
+      {
+        "name": "Bone Chill",
+        "url":"/rune/wizard/frost-nova/a"
+      }
+    ],
+    "className": "wizard",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Arcane Orb",
+    "blizzID": "arcane-orb",
+    "url":"https://eu.diablo3.com/en/class/wizard/active/arcane-orb",
+    "runes": [
+      {
+        "name": "Obliteration",
+        "url":"/rune/wizard/arcane-orb/a"
+      },
+      {
+        "name": "Arcane Orbit",
+        "url":"/rune/wizard/arcane-orb/c"
+      },
+      {
+        "name": "Spark",
+        "url":"/rune/wizard/arcane-orb/b"
+      },
+      {
+        "name": "Scorch",
+        "url":"/rune/wizard/arcane-orb/d"
+      },
+      {
+        "name": "Frozen Orb",
+        "url":"/rune/wizard/arcane-orb/e"
+      }
+    ],
+    "className": "wizard",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Diamond Skin",
+    "blizzID": "diamond-skin",
+    "url":"https://eu.diablo3.com/en/class/wizard/active/diamond-skin",
+    "runes": [
+      {
+        "name": "Crystal Shell",
+        "url":"/rune/wizard/diamond-skin/c"
+      },
+      {
+        "name": "Prism",
+        "url":"/rune/wizard/diamond-skin/d"
+      },
+      {
+        "name": "Sleek Shell",
+        "url":"/rune/wizard/diamond-skin/a"
+      },
+      {
+        "name": "Enduring Skin",
+        "url":"/rune/wizard/diamond-skin/b"
+      },
+      {
+        "name": "Diamond Shards",
+        "url":"/rune/wizard/diamond-skin/e"
+      }
+    ],
+    "className": "wizard",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Wave of Force",
+    "blizzID": "wave-of-force",
+    "url":"https://eu.diablo3.com/en/class/wizard/active/wave-of-force",
+    "runes": [
+      {
+        "name": "Impactful Wave",
+        "url":"/rune/wizard/wave-of-force/a"
+      },
+      {
+        "name": "Debilitating Force",
+        "url":"/rune/wizard/wave-of-force/e"
+      },
+      {
+        "name": "Arcane Attunement",
+        "url":"/rune/wizard/wave-of-force/d"
+      },
+      {
+        "name": "Static Pulse",
+        "url":"/rune/wizard/wave-of-force/b"
+      },
+      {
+        "name": "Heat Wave",
+        "url":"/rune/wizard/wave-of-force/c"
+      }
+    ],
+    "className": "wizard",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Spectral Blade",
+    "blizzID": "spectral-blade",
+    "url":"https://eu.diablo3.com/en/class/wizard/active/spectral-blade",
+    "runes": [
+      {
+        "name": "Flame Blades",
+        "url":"/rune/wizard/spectral-blade/a"
+      },
+      {
+        "name": "Siphoning Blade",
+        "url":"/rune/wizard/spectral-blade/d"
+      },
+      {
+        "name": "Thrown Blade",
+        "url":"/rune/wizard/spectral-blade/b"
+      },
+      {
+        "name": "Barrier Blades",
+        "url":"/rune/wizard/spectral-blade/e"
+      },
+      {
+        "name": "Ice Blades",
+        "url":"/rune/wizard/spectral-blade/c"
+      }
+    ],
+    "className": "wizard",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Arcane Torrent",
+    "blizzID": "arcane-torrent",
+    "url":"https://eu.diablo3.com/en/class/wizard/active/arcane-torrent",
+    "runes": [
+      {
+        "name": "Flame Ward",
+        "url":"/rune/wizard/arcane-torrent/a"
+      },
+      {
+        "name": "Death Blossom",
+        "url":"/rune/wizard/arcane-torrent/e"
+      },
+      {
+        "name": "Arcane Mines",
+        "url":"/rune/wizard/arcane-torrent/c"
+      },
+      {
+        "name": "Static Discharge",
+        "url":"/rune/wizard/arcane-torrent/d"
+      },
+      {
+        "name": "Cascade",
+        "url":"/rune/wizard/arcane-torrent/b"
+      }
+    ],
+    "className": "wizard",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Energy Twister",
+    "blizzID": "energy-twister",
+    "url":"https://eu.diablo3.com/en/class/wizard/active/energy-twister",
+    "runes": [
+      {
+        "name": "Mistral Breeze",
+        "url":"/rune/wizard/energy-twister/d"
+      },
+      {
+        "name": "Gale Force",
+        "url":"/rune/wizard/energy-twister/a"
+      },
+      {
+        "name": "Raging Storm",
+        "url":"/rune/wizard/energy-twister/b"
+      },
+      {
+        "name": "Wicked Wind",
+        "url":"/rune/wizard/energy-twister/e"
+      },
+      {
+        "name": "Storm Chaser",
+        "url":"/rune/wizard/energy-twister/c"
+      }
+    ],
+    "className": "wizard",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Ice Armor",
+    "blizzID": "ice-armor",
+    "url":"https://eu.diablo3.com/en/class/wizard/active/ice-armor",
+    "runes": [
+      {
+        "name": "Chilling Aura",
+        "url":"/rune/wizard/ice-armor/b"
+      },
+      {
+        "name": "Crystallize",
+        "url":"/rune/wizard/ice-armor/d"
+      },
+      {
+        "name": "Jagged Ice",
+        "url":"/rune/wizard/ice-armor/a"
+      },
+      {
+        "name": "Ice Reflect",
+        "url":"/rune/wizard/ice-armor/e"
+      },
+      {
+        "name": "Frozen Storm",
+        "url":"/rune/wizard/ice-armor/c"
+      }
+    ],
+    "className": "wizard",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Electrocute",
+    "blizzID": "electrocute",
+    "url":"https://eu.diablo3.com/en/class/wizard/active/electrocute",
+    "runes": [
+      {
+        "name": "Chain Lightning",
+        "url":"/rune/wizard/electrocute/b"
+      },
+      {
+        "name": "Forked Lightning",
+        "url":"/rune/wizard/electrocute/e"
+      },
+      {
+        "name": "Lightning Blast",
+        "url":"/rune/wizard/electrocute/a"
+      },
+      {
+        "name": "Surge of Power",
+        "url":"/rune/wizard/electrocute/d"
+      },
+      {
+        "name": "Arc Lightning",
+        "url":"/rune/wizard/electrocute/c"
+      }
+    ],
+    "className": "wizard",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Slow Time",
+    "blizzID": "slow-time",
+    "url":"https://eu.diablo3.com/en/class/wizard/active/slow-time",
+    "runes": [
+      {
+        "name": "Time Shell",
+        "url":"/rune/wizard/slow-time/c"
+      },
+      {
+        "name": "Exhaustion",
+        "url":"/rune/wizard/slow-time/d"
+      },
+      {
+        "name": "Time Warp",
+        "url":"/rune/wizard/slow-time/a"
+      },
+      {
+        "name": "Point of No Return",
+        "url":"/rune/wizard/slow-time/b"
+      },
+      {
+        "name": "Stretch Time",
+        "url":"/rune/wizard/slow-time/e"
+      }
+    ],
+    "className": "wizard",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Storm Armor",
+    "blizzID": "storm-armor",
+    "url":"https://eu.diablo3.com/en/class/wizard/active/storm-armor",
+    "runes": [
+      {
+        "name": "Reactive Armor",
+        "url":"/rune/wizard/storm-armor/c"
+      },
+      {
+        "name": "Power of the Storm",
+        "url":"/rune/wizard/storm-armor/d"
+      },
+      {
+        "name": "Thunder Storm",
+        "url":"/rune/wizard/storm-armor/a"
+      },
+      {
+        "name": "Scramble",
+        "url":"/rune/wizard/storm-armor/b"
+      },
+      {
+        "name": "Shocking Aspect",
+        "url":"/rune/wizard/storm-armor/e"
+      }
+    ],
+    "className": "wizard",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Explosive Blast",
+    "blizzID": "explosive-blast",
+    "url":"https://eu.diablo3.com/en/class/wizard/active/explosive-blast",
+    "runes": [
+      {
+        "name": "Unleashed",
+        "url":"/rune/wizard/explosive-blast/d"
+      },
+      {
+        "name": "Flash",
+        "url":"/rune/wizard/explosive-blast/c"
+      },
+      {
+        "name": "Short Fuse",
+        "url":"/rune/wizard/explosive-blast/a"
+      },
+      {
+        "name": "Obliterate",
+        "url":"/rune/wizard/explosive-blast/b"
+      },
+      {
+        "name": "Chain Reaction",
+        "url":"/rune/wizard/explosive-blast/e"
+      }
+    ],
+    "className": "wizard",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Magic Weapon",
+    "blizzID": "magic-weapon",
+    "url":"https://eu.diablo3.com/en/class/wizard/active/magic-weapon",
+    "runes": [
+      {
+        "name": "Electrify",
+        "url":"/rune/wizard/magic-weapon/b"
+      },
+      {
+        "name": "Force Weapon",
+        "url":"/rune/wizard/magic-weapon/c"
+      },
+      {
+        "name": "Conduit",
+        "url":"/rune/wizard/magic-weapon/d"
+      },
+      {
+        "name": "Ignite",
+        "url":"/rune/wizard/magic-weapon/a"
+      },
+      {
+        "name": "Deflection",
+        "url":"/rune/wizard/magic-weapon/e"
+      }
+    ],
+    "className": "wizard",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Hydra",
+    "blizzID": "hydra",
+    "url":"https://eu.diablo3.com/en/class/wizard/active/hydra",
+    "runes": [
+      {
+        "name": "Arcane Hydra",
+        "url":"/rune/wizard/hydra/e"
+      },
+      {
+        "name": "Lightning Hydra",
+        "url":"/rune/wizard/hydra/b"
+      },
+      {
+        "name": "Blazing Hydra",
+        "url":"/rune/wizard/hydra/c"
+      },
+      {
+        "name": "Frost Hydra",
+        "url":"/rune/wizard/hydra/a"
+      },
+      {
+        "name": "Mammoth Hydra",
+        "url":"/rune/wizard/hydra/d"
+      }
+    ],
+    "className": "wizard",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Disintegrate",
+    "blizzID": "disintegrate",
+    "url":"https://eu.diablo3.com/en/class/wizard/active/disintegrate",
+    "runes": [
+      {
+        "name": "Convergence",
+        "url":"/rune/wizard/disintegrate/b"
+      },
+      {
+        "name": "Volatility",
+        "url":"/rune/wizard/disintegrate/e"
+      },
+      {
+        "name": "Entropy",
+        "url":"/rune/wizard/disintegrate/c"
+      },
+      {
+        "name": "Chaos Nexus",
+        "url":"/rune/wizard/disintegrate/d"
+      },
+      {
+        "name": "Intensify",
+        "url":"/rune/wizard/disintegrate/a"
+      }
+    ],
+    "className": "wizard",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Familiar",
+    "blizzID": "familiar",
+    "url":"https://eu.diablo3.com/en/class/wizard/active/familiar",
+    "runes": [
+      {
+        "name": "Sparkflint",
+        "url":"/rune/wizard/familiar/a"
+      },
+      {
+        "name": "Icicle",
+        "url":"/rune/wizard/familiar/c"
+      },
+      {
+        "name": "Ancient Guardian",
+        "url":"/rune/wizard/familiar/e"
+      },
+      {
+        "name": "Arcanot",
+        "url":"/rune/wizard/familiar/d"
+      },
+      {
+        "name": "Cannoneer",
+        "url":"/rune/wizard/familiar/b"
+      }
+    ],
+    "className": "wizard",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Teleport",
+    "blizzID": "teleport",
+    "url":"https://eu.diablo3.com/en/class/wizard/active/teleport",
+    "runes": [
+      {
+        "name": "Safe Passage",
+        "url":"/rune/wizard/teleport/c"
+      },
+      {
+        "name": "Wormhole",
+        "url":"/rune/wizard/teleport/e"
+      },
+      {
+        "name": "Reversal",
+        "url":"/rune/wizard/teleport/d"
+      },
+      {
+        "name": "Fracture",
+        "url":"/rune/wizard/teleport/b"
+      },
+      {
+        "name": "Calamity",
+        "url":"/rune/wizard/teleport/a"
+      }
+    ],
+    "className": "wizard",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Mirror Image",
+    "blizzID": "mirror-image",
+    "url":"https://eu.diablo3.com/en/class/wizard/active/mirror-image",
+    "runes": [
+      {
+        "name": "Hard Light",
+        "url":"/rune/wizard/mirror-image/c"
+      },
+      {
+        "name": "Duplicates",
+        "url":"/rune/wizard/mirror-image/b"
+      },
+      {
+        "name": "Mocking Demise",
+        "url":"/rune/wizard/mirror-image/e"
+      },
+      {
+        "name": "Extension of Will",
+        "url":"/rune/wizard/mirror-image/d"
+      },
+      {
+        "name": "Mirror Mimics",
+        "url":"/rune/wizard/mirror-image/a"
+      }
+    ],
+    "className": "wizard",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Meteor",
+    "blizzID": "meteor",
+    "url":"https://eu.diablo3.com/en/class/wizard/active/meteor",
+    "runes": [
+      {
+        "name": "Thunder Crash",
+        "url":"/rune/wizard/meteor/e"
+      },
+      {
+        "name": "Star Pact",
+        "url":"/rune/wizard/meteor/d"
+      },
+      {
+        "name": "Comet",
+        "url":"/rune/wizard/meteor/c"
+      },
+      {
+        "name": "Meteor Shower",
+        "url":"/rune/wizard/meteor/b"
+      },
+      {
+        "name": "Molten Impact",
+        "url":"/rune/wizard/meteor/a"
+      }
+    ],
+    "className": "wizard",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Blizzard",
+    "blizzID": "blizzard",
+    "url":"https://eu.diablo3.com/en/class/wizard/active/blizzard",
+    "runes": [
+      {
+        "name": "Lightning Storm",
+        "url":"/rune/wizard/blizzard/c"
+      },
+      {
+        "name": "Frozen Solid",
+        "url":"/rune/wizard/blizzard/e"
+      },
+      {
+        "name": "Snowbound",
+        "url":"/rune/wizard/blizzard/d"
+      },
+      {
+        "name": "Apocalypse",
+        "url":"/rune/wizard/blizzard/b"
+      },
+      {
+        "name": "Unrelenting Storm",
+        "url":"/rune/wizard/blizzard/a"
+      }
+    ],
+    "className": "wizard",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Energy Armor",
+    "blizzID": "energy-armor",
+    "url":"https://eu.diablo3.com/en/class/wizard/active/energy-armor",
+    "runes": [
+      {
+        "name": "Absorption",
+        "url":"/rune/wizard/energy-armor/d"
+      },
+      {
+        "name": "Pinpoint Barrier",
+        "url":"/rune/wizard/energy-armor/e"
+      },
+      {
+        "name": "Energy Tap",
+        "url":"/rune/wizard/energy-armor/b"
+      },
+      {
+        "name": "Force Armor",
+        "url":"/rune/wizard/energy-armor/c"
+      },
+      {
+        "name": "Prismatic Armor",
+        "url":"/rune/wizard/energy-armor/a"
+      }
+    ],
+    "className": "wizard",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Archon",
+    "blizzID": "archon",
+    "url":"https://eu.diablo3.com/en/class/wizard/active/archon",
+    "runes": [
+      {
+        "name": "Combustion",
+        "url":"/rune/wizard/archon/e"
+      },
+      {
+        "name": "Teleport",
+        "url":"/rune/wizard/archon/c"
+      },
+      {
+        "name": "Pure Power",
+        "url":"/rune/wizard/archon/d"
+      },
+      {
+        "name": "Slow Time",
+        "url":"/rune/wizard/archon/b"
+      },
+      {
+        "name": "Improved Archon",
+        "url":"/rune/wizard/archon/a"
+      }
+    ],
+    "className": "wizard",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Black Hole",
+    "blizzID": "black-hole",
+    "url":"https://eu.diablo3.com/en/class/wizard/active/black-hole",
+    "runes": [
+      {
+        "name": "Supermassive",
+        "url":"/rune/wizard/black-hole/a"
+      },
+      {
+        "name": "Absolute Zero",
+        "url":"/rune/wizard/black-hole/e"
+      },
+      {
+        "name": "Event Horizon",
+        "url":"/rune/wizard/black-hole/b"
+      },
+      {
+        "name": "Blazar",
+        "url":"/rune/wizard/black-hole/c"
+      },
+      {
+        "name": "Spellsteal",
+        "url":"/rune/wizard/black-hole/d"
+      }
+    ],
+    "className": "wizard",
+    "type": "ACTIVE"
+  },
+  {
+    "name": "Power Hungry",
+    "blizzID": "power-hungry",
+    "url":"https://eu.diablo3.com/en/class/wizard/passive/power-hungry",
+    "runes": [
+
+    ],
+    "className": "wizard",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Blur",
+    "blizzID": "blur",
+    "url":"https://eu.diablo3.com/en/class/wizard/passive/blur",
+    "runes": [
+
+    ],
+    "className": "wizard",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Evocation",
+    "blizzID": "evocation",
+    "url":"https://eu.diablo3.com/en/class/wizard/passive/evocation",
+    "runes": [
+
+    ],
+    "className": "wizard",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Glass Cannon",
+    "blizzID": "glass-cannon",
+    "url":"https://eu.diablo3.com/en/class/wizard/passive/glass-cannon",
+    "runes": [
+
+    ],
+    "className": "wizard",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Prodigy",
+    "blizzID": "prodigy",
+    "url":"https://eu.diablo3.com/en/class/wizard/passive/prodigy",
+    "runes": [
+
+    ],
+    "className": "wizard",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Astral Presence",
+    "blizzID": "astral-presence",
+    "url":"https://eu.diablo3.com/en/class/wizard/passive/astral-presence",
+    "runes": [
+
+    ],
+    "className": "wizard",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Illusionist",
+    "blizzID": "illusionist",
+    "url":"https://eu.diablo3.com/en/class/wizard/passive/illusionist",
+    "runes": [
+
+    ],
+    "className": "wizard",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Cold Blooded",
+    "blizzID": "cold-blooded",
+    "url":"https://eu.diablo3.com/en/class/wizard/passive/cold-blooded",
+    "runes": [
+
+    ],
+    "className": "wizard",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Conflagration",
+    "blizzID": "conflagration",
+    "url":"https://eu.diablo3.com/en/class/wizard/passive/conflagration",
+    "runes": [
+
+    ],
+    "className": "wizard",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Paralysis",
+    "blizzID": "paralysis",
+    "url":"https://eu.diablo3.com/en/class/wizard/passive/paralysis",
+    "runes": [
+
+    ],
+    "className": "wizard",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Galvanizing Ward",
+    "blizzID": "galvanizing-ward",
+    "url":"https://eu.diablo3.com/en/class/wizard/passive/galvanizing-ward",
+    "runes": [
+
+    ],
+    "className": "wizard",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Temporal Flux",
+    "blizzID": "temporal-flux",
+    "url":"https://eu.diablo3.com/en/class/wizard/passive/temporal-flux",
+    "runes": [
+
+    ],
+    "className": "wizard",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Dominance",
+    "blizzID": "dominance",
+    "url":"https://eu.diablo3.com/en/class/wizard/passive/dominance",
+    "runes": [
+
+    ],
+    "className": "wizard",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Arcane Dynamo",
+    "blizzID": "arcane-dynamo",
+    "url":"https://eu.diablo3.com/en/class/wizard/passive/arcane-dynamo",
+    "runes": [
+
+    ],
+    "className": "wizard",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Unstable Anomaly",
+    "blizzID": "unstable-anomaly",
+    "url":"https://eu.diablo3.com/en/class/wizard/passive/unstable-anomaly",
+    "runes": [
+
+    ],
+    "className": "wizard",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Unwavering Will",
+    "blizzID": "unwavering-will",
+    "url":"https://eu.diablo3.com/en/class/wizard/passive/unwavering-will",
+    "runes": [
+
+    ],
+    "className": "wizard",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Audacity",
+    "blizzID": "audacity",
+    "url":"https://eu.diablo3.com/en/class/wizard/passive/audacity",
+    "runes": [
+
+    ],
+    "className": "wizard",
+    "type": "PASSIVE"
+  },
+  {
+    "name": "Elemental Exposure",
+    "blizzID": "elemental-exposure",
+    "url":"https://eu.diablo3.com/en/class/wizard/passive/elemental-exposure",
+    "runes": [
+
+    ],
+    "className": "wizard",
+    "type": "PASSIVE"
+  }
+]

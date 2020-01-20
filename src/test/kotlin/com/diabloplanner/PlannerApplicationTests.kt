@@ -1,4 +1,4 @@
-package com.diablo.planner
+package com.diabloplanner
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest

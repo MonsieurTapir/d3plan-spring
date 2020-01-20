@@ -1,4 +1,4 @@
-package com.diablo.planner
+package com.diabloplanner
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication

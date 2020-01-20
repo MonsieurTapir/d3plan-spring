@@ -1,4 +1,4 @@
-package com.diablo.planner
+package com.diabloplanner
 
 import org.assertj.core.api.Assertions.assertThat
 import org.junit.jupiter.api.Test
@@ -23,7 +23,7 @@ class RepositoriesTests @Autowired constructor(
         entityManager.persist(dash)
         val mockbuild = Build("WW", "barb", 
 		author= "Tapir",
-		description = "Petit build monk des familles", helm=juergen, skillA=dash)
+		description = "Petit build monk des familles", itemsEquipped=HashMap(mapOf(BuildSlot.HELM to juergen)), legendaryGems=HashMap(mapOf()),skillsEquipped=HashMap(mapOf(SkillSlot.Q to dash)), itemsCubed=HashMap(mapOf(CubeSlot.ARMOR to juergen)), runes =HashMap(mapOf(RuneSlot.Q to "Dashou")))
         entityManager.persist(mockbuild)
         entityManager.flush()
         

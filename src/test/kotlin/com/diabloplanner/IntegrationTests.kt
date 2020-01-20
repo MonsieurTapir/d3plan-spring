@@ -1,4 +1,4 @@
-package com.diablo.planner
+package com.diabloplanner
 
 import org.assertj.core.api.Assertions.*
 import org.junit.jupiter.api.AfterAll

@@ -15,8 +15,8 @@ services:
       - database.env # configure postgres
     ports:
       - "5432:5432"
-    volumes:
-      - DiabloData:/var/lib/postgresql
-volumes:
-  DiabloData:
+    #volumes:
+     # - DiabloData:/var/lib/postgresql
+#volumes:
+ # DiabloData:
   
