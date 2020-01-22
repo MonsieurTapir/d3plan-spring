@@ -8,7 +8,10 @@ data class LightBuild(
     val description: String,
     val addedAt: String
 )
-fun Build.renderLight(uribase: String) = LightBuild(name, className, uribase+"/"+id, author, description, addedAt.format())
+fun Build.renderLight(uribase: String) : LightBuild {
+    var return_url = uribase.trimEnd('/')
+    return LightBuild(name, className, return_url+"/"+id, author, description, addedAt.format())
+} 
 
 
 data class RenderedBuild(
@@ -18,11 +21,12 @@ data class RenderedBuild(
     val author: String,
     val description: String,
     val addedAt: String,
-    val items: Map<BuildSlot,Item?>,
-    val gems: Map<GemSlot,Item?>,
-    val skills: Map<SkillSlot,Skill?>,
-    val runes: Map<RuneSlot,String?>,
-    val cubed: Map<CubeSlot,Item?>
+    val items: HashMap<BuildSlot,Item?>,
+    val gems: HashMap<GemSlot,Item?>,
+    val skills: HashMap<SkillSlot,Skill?>,
+    val runes: HashMap<RuneSlot,String?>,
+    val cubed: HashMap<CubeSlot,Item?>,
+    val id: String? = ""
 )
 fun Build.render(uribase: String):RenderedBuild{
 return RenderedBuild(
@@ -32,10 +36,10 @@ return RenderedBuild(
     author, 
     description, 
     addedAt.format(), 
-    itemsEquipped,
-    legendaryGems,
-    skillsEquipped,
-    runes,
-    itemsCubed
+    HashMap(itemsEquipped),
+    HashMap(legendaryGems),
+    HashMap(skillsEquipped),
+    HashMap(runes),
+    HashMap(itemsCubed)
 )
 }

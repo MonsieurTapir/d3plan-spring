@@ -5,6 +5,9 @@ import java.time.LocalDateTime
 import javax.persistence.*
 import org.hibernate.annotations.GenericGenerator
 
+enum class ClassName{
+   BARBARIAN,CRUSADER,DH,MONK,NECROMANCER,WD,WIZARD
+}
 enum class CubeSlot{
     JEWELRY,ARMOR,WEAPON
 }
@@ -26,24 +29,24 @@ enum class GemSlot{
 @Entity
 @Table(name = "build")
 class Build(
-    val name: String,
-    val className: String,
-    val author: String,
+    val name: String = "",
+    val className: String = "",
+    val author: String = "",
 
     @ManyToMany(targetEntity=com.diabloplanner.Item)
-    var legendaryGems: MutableMap<GemSlot,Item?>,
+    var legendaryGems: MutableMap<GemSlot,Item?> = HashMap(),
 
     @ManyToMany(targetEntity=com.diabloplanner.Item)
-    var itemsEquipped: MutableMap<BuildSlot, Item?>,
+    var itemsEquipped: MutableMap<BuildSlot, Item?> = HashMap(),
 
     @ManyToMany(targetEntity=com.diabloplanner.Item)
-    var itemsCubed: MutableMap<CubeSlot, Item?>,
+    var itemsCubed: MutableMap<CubeSlot, Item?> = HashMap(),
 
     @ManyToMany(targetEntity=com.diabloplanner.Skill)
-    var skillsEquipped: MutableMap<SkillSlot, Skill?>,
+    var skillsEquipped: MutableMap<SkillSlot, Skill?> = HashMap(),
 
     @ElementCollection
-    var runes: MutableMap<RuneSlot, String?>,
+    var runes: MutableMap<RuneSlot, String?> = HashMap(),
 
     var description: String = "",
     var addedAt: LocalDateTime = LocalDateTime.now(),
@@ -52,5 +55,23 @@ class Build(
     @GenericGenerator(name="system-uuid",
       strategy = "uuid")
     val id: String? = null
-)
+){
+    fun init_empty(){
+        for(s in BuildSlot.values()){
+            itemsEquipped[s] = null
+        }
+        for(s in GemSlot.values()){
+            legendaryGems[s] = null
+        }
+        for(s in SkillSlot.values()){
+            skillsEquipped[s] = null
+        }
+        for(s in RuneSlot.values()){
+            runes[s] = null
+        }
+        for(s in CubeSlot.values()){
+            itemsCubed[s] = null
+        }
+    }
+}
     
