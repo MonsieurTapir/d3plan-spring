@@ -85,7 +85,7 @@ class BuildConfiguration {
         runesEquipped[RuneSlot.LCLICK]="Overpenetration"
         runesEquipped[RuneSlot.RCLICK]="Wolf Companion"
 
-        var build = Build("Impalerino","Demon Hunter", "Brett",
+        var build = Build("Impalerino","DH", "Brett",
         legendaryGems=gems,
         itemsEquipped=itemsEquipped,
         itemsCubed=itemscubed,

@@ -21,11 +21,11 @@ data class RenderedBuild(
     val author: String,
     val description: String,
     val addedAt: String,
-    val items: HashMap<BuildSlot,Item?>,
-    val gems: HashMap<GemSlot,Item?>,
-    val skills: HashMap<SkillSlot,Skill?>,
+    val items: HashMap<BuildSlot,Long?>,
+    val gems: HashMap<GemSlot,Long?>,
+    val skills: HashMap<SkillSlot,Long?>,
     val runes: HashMap<RuneSlot,String?>,
-    val cubed: HashMap<CubeSlot,Item?>,
+    val cubed: HashMap<CubeSlot,Long?>,
     val id: String? = ""
 )
 fun Build.render(uribase: String):RenderedBuild{
@@ -36,10 +36,11 @@ return RenderedBuild(
     author, 
     description, 
     addedAt.format(), 
-    HashMap(itemsEquipped),
-    HashMap(legendaryGems),
-    HashMap(skillsEquipped),
+    HashMap(itemsEquipped.mapValues{it.value?.id}),
+    HashMap(legendaryGems.mapValues{it.value?.id}),
+    HashMap(skillsEquipped.mapValues{it.value?.id}),
     HashMap(runes),
-    HashMap(itemsCubed)
+    HashMap(itemsCubed.mapValues{it.value?.id}),
+    id
 )
 }

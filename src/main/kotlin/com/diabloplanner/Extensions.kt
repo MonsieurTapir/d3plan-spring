@@ -31,3 +31,5 @@ fun String.toSlug() = toLowerCase()
 inline fun <reified T : Enum<T>> enumValueOfOrNull(name: String): T? {
 	return enumValues<T>().find { it.name == name }
 }
+
+fun <T> Optional<T>.orNull(): T? = orElse(null)
