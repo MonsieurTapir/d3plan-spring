@@ -17,6 +17,7 @@ class Skill(
     val blizzID: String = "",
     val type: SkillType = SkillType.PASSIVE,
     val runes: Array<SkillRune>? = null,
+    val icon : String = "",
     @Id @GeneratedValue(strategy = GenerationType.IDENTITY) 
     var id: Long? = null
 )

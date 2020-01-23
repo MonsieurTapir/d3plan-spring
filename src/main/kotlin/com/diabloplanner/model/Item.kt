@@ -16,6 +16,8 @@ class Item(
     @Column(unique=true)
     var blizzID: String = "",
     var type: String = "",
+    val icon : String = "",
+    val color : String = "",
     @Id @GeneratedValue(strategy = GenerationType.IDENTITY) 
     var id: Long? = null
 )
