@@ -30,9 +30,11 @@ class BuildConfiguration {
             }
             var skills : List<Skill> = omapper.readValue(resourceSkills.inputStream)
             for( x in skills){
-                if(skillRepository.findByUrl(x.url) == null){
-                    skillRepository.save(x)
+                var maybe = skillRepository.findByIcon(x.icon)
+                if(maybe != null){
+                    x.id = maybe.id
                 }
+                skillRepository.save(x)
             }
         }catch(e : Throwable) {
             println(e)
@@ -97,12 +99,8 @@ class BuildConfiguration {
             buildRepository.save(build)
         else{
             var build2 : Build = buildRepository.findBySlug(build.slug)!!
-            build2.legendaryGems=gems
-            build2.itemsEquipped=itemsEquipped
-            build2.itemsCubed=itemscubed
-            build2.runes=runesEquipped
-            build2.skillsEquipped=skillsEquipped
-            buildRepository.save(build2)
+            build.id = build2.id
+            buildRepository.save(build)
         }
     }
 }

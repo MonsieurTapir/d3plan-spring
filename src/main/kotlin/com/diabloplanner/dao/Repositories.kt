@@ -14,5 +14,6 @@ interface ItemRepository : CrudRepository<Item, Long> {
 
 interface SkillRepository : CrudRepository<Skill, Long> {
 	fun findByName(name: String): Skill?
+	fun findByIcon(icon: String): Skill?
 	fun findByUrl(url: String): Skill?
 }

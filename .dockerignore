@@ -2,6 +2,9 @@ HELP.md
 myenv.env
 myenvtest.env
 
+.git
+.gitignore
+
 .gradle
 !gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**
